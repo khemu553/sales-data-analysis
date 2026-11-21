@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Segment,Region,State,Category,Product,Quantity,Discount,Sales,Profit,Month,Year,Profit_margin
+ORD-1071,2023-05-19,CUST-156,Home Office,East,Odisha,Office Supplies,Stapler,7,0.05,1662.5,74.26,5,2023,4.47
+ORD-1946,2024-12-11,CUST-166,Corporate,East,Odisha,Office Supplies,Binder,7,0.1,756.0,87.13,12,2024,11.53
+ORD-1943,2023-12-13,CUST-181,Consumer,South,Karnataka,Office Supplies,Stapler,7,0.0,1750.0,452.34,12,2023,25.85
+ORD-1934,2023-11-20,CUST-150,Home Office,North,Punjab,Furniture,Sofa,5,0.05,85500.0,28100.6,11,2023,32.87
+ORD-1734,2023-06-02,CUST-122,Home Office,North,Delhi,Technology,Phone,3,0.1,54000.0,13286.24,6,2023,24.6
+ORD-1333,2024-08-28,CUST-194,Consumer,East,Odisha,Technology,Phone,4,0.05,76000.0,23424.37,8,2024,30.82
+ORD-1870,2023-11-30,CUST-115,Home Office,East,Odisha,Furniture,Bookcase,3,0.05,19950.0,1228.17,11,2023,6.16
+ORD-1431,2024-06-23,CUST-148,Corporate,East,Odisha,Furniture,Table,3,0.2,21600.0,6032.03,6,2024,27.93
+ORD-1272,2023-04-21,CUST-049,Home Office,East,Odisha,Office Supplies,Stapler,2,0.0,500.0,141.63,4,2023,28.33
+ORD-1711,2024-01-17,CUST-088,Corporate,West,Maharashtra,Office Supplies,Notebook,1,0.0,80.0,11.95,1,2024,14.94
+ORD-1652,2023-05-28,CUST-021,Home Office,South,Tamil Nadu,Office Supplies,Notebook,5,0.0,400.0,67.89,5,2023,16.97
+ORD-1902,2023-06-09,CUST-113,Home Office,North,Delhi,Furniture,Bookcase,3,0.2,16800.0,-461.81,6,2023,-2.75
+ORD-1665,2024-05-22,CUST-075,Home Office,West,Gujarat,Office Supplies,Stapler,4,0.1,900.0,140.53,5,2024,15.61
+ORD-1881,2024-09-13,CUST-054,Consumer,East,Odisha,Office Supplies,Notebook,7,0.1,504.0,67.33,9,2024,13.36
+ORD-1197,2023-03-28,CUST-155,Corporate,West,Maharashtra,Technology,Printer,4,0.1,32400.0,14772.8,3,2023,45.6
+ORD-1756,2024-06-22,CUST-146,Consumer,South,Tamil Nadu,Technology,Phone,2,0.2,32000.0,11095.91,6,2024,34.67
+ORD-1683,2024-11-30,CUST-090,Corporate,East,West Bengal,Furniture,Bookcase,5,0.05,33250.0,6328.14,11,2024,19.03
+ORD-1440,2024-12-11,CUST-006,Home Office,West,Gujarat,Office Supplies,Stapler,1,0.0,250.0,-11.93,12,2024,-4.77
+ORD-1796,2024-12-07,CUST-173,Consumer,North,Delhi,Technology,Phone,4,0.0,80000.0,7818.17,12,2024,9.77
+ORD-1312,2023-03-28,CUST-026,Consumer,West,Gujarat,Technology,Phone,6,0.2,96000.0,324.72,3,2023,0.34
+ORD-1037,2024-08-27,CUST-062,Corporate,South,Karnataka,Office Supplies,Binder,4,0.0,480.0,114.17,8,2024,23.79
+ORD-1445,2024-04-28,CUST-019,Corporate,West,Maharashtra,Office Supplies,Notebook,1,0.05,76.0,27.96,4,2024,36.79
+ORD-1432,2024-08-25,CUST-100,Corporate,South,Tamil Nadu,Office Supplies,Notebook,4,0.05,304.0,40.41,8,2024,13.29
+ORD-1687,2024-03-09,CUST-041,Home Office,West,Gujarat,Office Supplies,Binder,1,0.0,120.0,-3.11,3,2024,-2.59
+ORD-1637,2023-08-05,CUST-108,Consumer,North,Delhi,Technology,Printer,3,0.05,25650.0,8284.73,8,2023,32.3
+ORD-1374,2024-10-08,CUST-115,Consumer,West,Gujarat,Office Supplies,Stapler,1,0.0,250.0,52.82,10,2024,21.13
+ORD-1964,2024-11-23,CUST-026,Corporate,South,Karnataka,Technology,Phone,5,0.1,90000.0,30821.42,11,2024,34.25
+ORD-1954,2024-07-27,CUST-064,Consumer,West,Gujarat,Technology,Printer,2,0.2,14400.0,6151.28,7,2024,42.72
+ORD-1833,2023-04-15,CUST-085,Home Office,unknown,Gujarat,Office Supplies,Binder,1,0.05,114.0,-12.84,4,2023,-11.26
+ORD-1141,2023-06-06,CUST-027,Corporate,South,Tamil Nadu,Furniture,Sofa,2,0.0,36000.0,8062.03,6,2023,22.39
+ORD-1957,2024-04-08,CUST-058,Corporate,South,Karnataka,Technology,Phone,7,0.0,140000.0,37846.31,4,2024,27.03
+ORD-1792,2024-06-11,CUST-036,Consumer,South,Tamil Nadu,Technology,Laptop,5,0.0,225000.0,53320.04,6,2024,23.7
+ORD-1700,2024-01-15,CUST-197,Consumer,West,Maharashtra,Technology,Phone,3,0.1,54000.0,426.24,1,2024,0.79
+ORD-1376,2024-06-21,CUST-113,Consumer,West,Gujarat,Furniture,Chair,3,0.1,12150.0,-808.84,6,2024,-6.66
+ORD-1865,2024-05-24,CUST-015,Home Office,East,Odisha,Office Supplies,Pen Set,1,0.0,150.0,-13.33,5,2024,-8.89
+ORD-1567,2023-07-02,CUST-179,Consumer,South,Karnataka,Technology,Printer,7,0.0,63000.0,-3151.13,7,2023,-5.0
+ORD-1699,2023-03-11,CUST-130,Consumer,East,West Bengal,Furniture,Sofa,3,0.05,51300.0,13332.87,3,2023,25.99
+ORD-1707,2024-02-22,CUST-037,Consumer,South,Karnataka,Furniture,Bookcase,5,0.2,28000.0,9543.25,2,2024,34.08
+ORD-1396,2023-02-02,CUST-194,Home Office,West,Gujarat,Technology,Headphones,2,0.05,4750.0,1422.46,2,2023,29.95
+ORD-1552,2024-08-27,CUST-084,Corporate,East,Odisha,Technology,Headphones,4,0.2,8000.0,2556.96,8,2024,31.96
+ORD-1529,2024-11-03,CUST-189,Consumer,South,Karnataka,Technology,Printer,6,0.2,43200.0,3082.59,11,2024,7.14
+ORD-1179,2024-01-01,CUST-040,Consumer,West,Maharashtra,Furniture,Table,4,0.0,36000.0,1611.41,1,2024,4.48
+ORD-1923,2023-04-16,CUST-149,Home Office,East,Odisha,Office Supplies,Binder,1,0.05,114.0,9.89,4,2023,8.68
+ORD-1909,2023-03-08,CUST-189,Corporate,South,Karnataka,Furniture,Bookcase,3,0.0,21000.0,1688.86,3,2023,8.04
+ORD-1020,2024-01-01,CUST-102,Home Office,East,Odisha,Furniture,Sofa,4,0.2,57600.0,15305.91,1,2024,26.57
+ORD-1192,2024-03-19,CUST-165,Consumer,West,Maharashtra,Technology,Headphones,6,0.2,12000.0,822.26,3,2024,6.85
+ORD-1551,2023-10-15,CUST-035,Corporate,South,Karnataka,Office Supplies,Binder,7,0.2,672.0,15.98,10,2023,2.38
+ORD-1558,2024-08-01,CUST-042,Consumer,North,Punjab,Technology,Printer,3,0.0,27000.0,153.07,8,2024,0.57
+ORD-1101,2023-05-26,CUST-112,Consumer,North,Delhi,Office Supplies,Stapler,5,0.2,1000.0,-3.69,5,2023,-0.37
+ORD-1465,2024-12-06,CUST-123,Consumer,West,Gujarat,Office Supplies,Stapler,4,0.0,1000.0,496.17,12,2024,49.62
+ORD-1068,2023-02-25,CUST-054,Consumer,North,Punjab,Office Supplies,Notebook,4,0.0,320.0,13.85,2,2023,4.33
+ORD-1496,2023-03-28,CUST-010,Corporate,North,Delhi,Technology,Printer,7,0.05,59850.0,12761.12,3,2023,21.32
+ORD-1502,2024-12-03,CUST-078,Consumer,North,Punjab,Office Supplies,Notebook,2,0.0,160.0,30.98,12,2024,19.36
+ORD-1981,2024-05-27,CUST-064,Corporate,North,Delhi,Furniture,Bookcase,1,0.05,6650.0,1304.43,5,2024,19.62
+ORD-1633,2023-10-05,CUST-019,Consumer,North,Delhi,Furniture,Bookcase,7,0.05,46550.0,-1535.83,10,2023,-3.3
+ORD-1158,2024-01-04,CUST-152,Home Office,West,Maharashtra,Office Supplies,Stapler,7,0.0,1750.0,221.1,1,2024,12.63
+ORD-1513,2024-08-19,CUST-050,Corporate,West,Maharashtra,Furniture,Bookcase,2,0.0,14000.0,6484.42,8,2024,46.32
+ORD-1345,2023-07-06,CUST-188,Corporate,unknown,Tamil Nadu,Technology,Headphones,4,0.0,10000.0,1237.89,7,2023,12.38
+ORD-1436,2024-02-19,CUST-048,Home Office,North,Punjab,Office Supplies,Stapler,3,0.0,750.0,135.48,2,2024,18.06
+ORD-1015,2024-07-27,CUST-005,Corporate,North,Punjab,Furniture,Bookcase,3,0.0,21000.0,1540.23,7,2024,7.33
+ORD-1250,2023-05-12,CUST-059,Consumer,East,Odisha,Furniture,Sofa,6,0.0,108000.0,27297.53,5,2023,25.28
+ORD-1067,2023-09-28,CUST-155,Home Office,South,Tamil Nadu,Furniture,Sofa,3,0.05,51300.0,5367.63,9,2023,10.46
+ORD-1182,2023-12-30,CUST-092,Corporate,North,Punjab,Technology,Printer,4,0.1,32400.0,-5315.11,12,2023,-16.4
+ORD-1426,2024-09-22,CUST-058,Home Office,East,Odisha,Office Supplies,Pen Set,6,0.1,810.0,178.83,9,2024,22.08
+ORD-1994,2024-01-22,CUST-046,Consumer,South,Karnataka,Office Supplies,Binder,7,0.2,672.0,181.46,1,2024,27.0
+ORD-1925,2024-11-21,CUST-131,Consumer,North,Punjab,Technology,Phone,2,0.0,40000.0,12776.96,11,2024,31.94
+ORD-1899,2024-03-25,CUST-094,Corporate,East,Odisha,Technology,Phone,3,0.2,48000.0,9046.6,3,2024,18.85
+ORD-1318,2024-11-16,CUST-060,Home Office,West,Maharashtra,Office Supplies,Pen Set,5,0.1,675.0,125.86,11,2024,18.65
+ORD-1945,2023-03-29,CUST-008,Home Office,North,Delhi,Technology,Printer,5,0.0,45000.0,8539.49,3,2023,18.98
+ORD-1749,2023-04-26,CUST-006,Home Office,South,Karnataka,Technology,Headphones,4,0.2,8000.0,2022.77,4,2023,25.28
+ORD-1645,2023-08-28,CUST-003,Consumer,South,Karnataka,Office Supplies,Pen Set,1,0.2,120.0,18.25,8,2023,15.21
+ORD-1460,2024-06-12,CUST-089,Consumer,North,Punjab,Furniture,Chair,2,0.1,8100.0,1838.53,6,2024,22.7
+ORD-1933,2024-04-18,CUST-034,Home Office,East,Odisha,Furniture,Bookcase,2,0.1,12600.0,4112.58,4,2024,32.64
+ORD-1617,2023-07-14,CUST-089,Home Office,South,Karnataka,Technology,Phone,1,0.05,19000.0,4917.55,7,2023,25.88
+ORD-1417,2023-03-30,CUST-188,Home Office,East,Odisha,Technology,Phone,4,0.0,80000.0,20298.63,3,2023,25.37
+ORD-1755,2023-11-16,CUST-060,Home Office,North,Delhi,Office Supplies,Notebook,2,0.05,152.0,33.17,11,2023,21.82
+ORD-1626,2023-09-04,CUST-087,Home Office,South,Karnataka,Technology,Printer,2,0.0,18000.0,6223.56,9,2023,34.58
+ORD-1629,2023-09-25,CUST-079,Consumer,West,Gujarat,Furniture,Chair,4,0.2,14400.0,3555.49,9,2023,24.69
+ORD-1236,2024-04-29,CUST-160,Consumer,West,Maharashtra,Office Supplies,Stapler,6,0.1,1350.0,160.93,4,2024,11.92
+ORD-1701,2024-03-25,CUST-088,Corporate,South,Tamil Nadu,Office Supplies,Notebook,6,0.1,432.0,134.74,3,2024,31.19
+ORD-1896,2024-01-07,CUST-169,Home Office,unknown,West Bengal,Technology,Laptop,5,0.1,202500.0,41943.25,1,2024,20.71
+ORD-1811,2024-10-03,CUST-190,Home Office,East,West Bengal,Technology,Phone,5,0.1,90000.0,18983.11,10,2024,21.09
+ORD-1530,2024-03-12,CUST-014,Consumer,North,Punjab,Furniture,Bookcase,1,0.1,6300.0,1842.66,3,2024,29.25
+ORD-1427,2024-08-10,CUST-001,Corporate,West,Gujarat,Furniture,Table,3,0.1,24300.0,5276.25,8,2024,21.71
+ORD-1330,2024-02-04,CUST-171,Corporate,East,West Bengal,Technology,Laptop,4,0.0,180000.0,42970.69,2,2024,23.87
+ORD-1620,2023-11-13,CUST-057,Home Office,South,Karnataka,Office Supplies,Stapler,3,0.0,750.0,177.41,11,2023,23.65
+ORD-1223,2023-05-28,CUST-048,Consumer,North,Delhi,Technology,Laptop,3,0.1,121500.0,-12310.53,5,2023,-10.13
+ORD-1735,2024-05-04,CUST-135,Consumer,West,Gujarat,Technology,Phone,7,0.0,140000.0,28071.76,5,2024,20.05
+ORD-1848,2024-08-21,CUST-018,Corporate,North,Delhi,Technology,Headphones,5,0.0,12500.0,1895.63,8,2024,15.17
+ORD-1724,2024-07-27,CUST-001,Corporate,West,Gujarat,Furniture,Sofa,2,0.1,32400.0,5189.44,7,2024,16.02
+ORD-1452,2023-12-31,CUST-044,Home Office,South,Tamil Nadu,Furniture,Chair,2,0.2,7200.0,1906.44,12,2023,26.48
+ORD-1317,2024-06-14,CUST-113,Corporate,North,Punjab,Furniture,Chair,4,0.0,18000.0,4896.43,6,2024,27.2
+ORD-1935,2024-11-17,CUST-060,Corporate,West,Maharashtra,Furniture,Bookcase,5,0.0,35000.0,3420.77,11,2024,9.77
+ORD-1239,2024-04-02,CUST-120,Corporate,East,West Bengal,Office Supplies,Stapler,1,0.2,200.0,19.29,4,2024,9.64
+ORD-1099,2023-04-13,CUST-100,Corporate,West,Maharashtra,Office Supplies,Notebook,4,0.0,320.0,53.52,4,2023,16.73
+ORD-1660,2023-05-10,CUST-161,Home Office,West,Maharashtra,Furniture,Table,1,0.0,9000.0,2377.46,5,2023,26.42
+ORD-1065,2023-08-26,CUST-153,Corporate,East,West Bengal,Furniture,Bookcase,6,0.1,37800.0,12643.33,8,2023,33.45
+ORD-1675,2024-06-13,CUST-149,Consumer,East,Odisha,Office Supplies,Stapler,6,0.2,1200.0,-162.02,6,2024,-13.5
+ORD-1900,2023-01-04,CUST-147,Corporate,South,Tamil Nadu,Furniture,Bookcase,6,0.05,39900.0,10940.87,1,2023,27.42
+ORD-1143,2023-10-26,CUST-168,Home Office,East,Odisha,Furniture,Chair,6,0.1,24300.0,6161.41,10,2023,25.36
+ORD-1589,2024-09-07,CUST-070,Consumer,North,Punjab,Furniture,Chair,2,0.05,8550.0,852.7,9,2024,9.97
+ORD-1748,2023-08-17,CUST-186,Home Office,East,Odisha,Office Supplies,Binder,4,0.0,480.0,20.87,8,2023,4.35
+ORD-1335,2024-08-13,CUST-064,Consumer,East,West Bengal,Technology,Headphones,2,0.2,4000.0,1324.38,8,2024,33.11
+ORD-1419,2024-01-05,CUST-158,Corporate,North,Delhi,Office Supplies,Pen Set,4,0.1,540.0,-15.23,1,2024,-2.82
+ORD-1311,2024-05-05,CUST-198,Home Office,East,West Bengal,Furniture,Chair,1,0.2,3600.0,654.34,5,2024,18.18
+ORD-1575,2023-09-30,CUST-049,Home Office,North,Delhi,Office Supplies,Notebook,7,0.0,560.0,173.88,9,2023,31.05
+ORD-1429,2024-06-06,CUST-108,Consumer,West,Gujarat,Furniture,Table,2,0.0,18000.0,-893.76,6,2024,-4.97
+ORD-1232,2023-01-15,CUST-108,Home Office,West,Gujarat,Office Supplies,Pen Set,4,0.0,600.0,48.18,1,2023,8.03
+ORD-1209,2024-07-22,CUST-073,Corporate,West,Maharashtra,Technology,Phone,4,0.1,72000.0,6783.47,7,2024,9.42
+ORD-1525,2023-08-15,CUST-094,Home Office,North,Delhi,Furniture,Sofa,1,0.0,18000.0,4180.15,8,2023,23.22
+ORD-1996,2024-01-20,CUST-175,Home Office,East,West Bengal,Office Supplies,Binder,1,0.0,120.0,17.99,1,2024,14.99
+ORD-1565,2023-06-22,CUST-075,Consumer,West,Gujarat,Technology,Phone,2,0.0,40000.0,4845.78,6,2023,12.11
+ORD-1941,2023-10-22,CUST-066,Corporate,West,Gujarat,Furniture,Chair,1,0.2,3600.0,911.0,10,2023,25.31
+ORD-1459,2023-03-19,CUST-181,Consumer,East,West Bengal,Furniture,Chair,5,0.1,20250.0,6186.91,3,2023,30.55
+ORD-1284,2023-11-19,CUST-127,Home Office,South,Karnataka,Office Supplies,Pen Set,4,0.1,540.0,28.28,11,2023,5.24
+ORD-1599,2024-04-14,CUST-025,Home Office,South,Karnataka,Office Supplies,Stapler,4,0.2,800.0,220.08,4,2024,27.51
+ORD-1842,2024-10-25,CUST-038,Consumer,West,Gujarat,Office Supplies,Pen Set,3,0.1,405.0,101.62,10,2024,25.09
+ORD-1876,2024-01-30,CUST-103,Consumer,North,Punjab,Technology,Printer,7,0.05,59850.0,10858.54,1,2024,18.14
+ORD-1305,2023-04-13,CUST-065,Consumer,East,West Bengal,Technology,Phone,1,0.1,18000.0,4417.9,4,2023,24.54
+ORD-1137,2023-01-23,CUST-091,Consumer,North,Punjab,Technology,Phone,7,0.2,112000.0,-12779.72,1,2023,-11.41
+ORD-1007,2024-05-24,CUST-192,Corporate,East,West Bengal,Office Supplies,Pen Set,3,0.2,360.0,135.17,5,2024,37.55
+ORD-1066,2024-10-23,CUST-189,Consumer,East,Odisha,Furniture,Sofa,2,0.05,34200.0,7047.52,10,2024,20.61
+ORD-1937,2023-04-19,CUST-153,Home Office,West,Maharashtra,Technology,Laptop,7,0.0,315000.0,133448.1,4,2023,42.36
+ORD-1606,2023-08-24,CUST-195,Home Office,North,Delhi,Office Supplies,Pen Set,5,0.05,712.5,170.27,8,2023,23.9
+ORD-1399,2023-08-15,CUST-012,Corporate,West,Maharashtra,Technology,Phone,5,0.2,80000.0,6455.19,8,2023,8.07
+ORD-1164,2023-11-02,CUST-043,Corporate,East,West Bengal,Furniture,Table,4,0.1,32400.0,-2446.32,11,2023,-7.55
+ORD-1230,2023-12-05,CUST-087,Home Office,South,Karnataka,Office Supplies,Notebook,1,0.0,80.0,14.85,12,2023,18.56
+ORD-1717,2023-12-26,CUST-193,Home Office,South,Karnataka,Office Supplies,Stapler,3,0.2,600.0,126.47,12,2023,21.08
+ORD-1346,2024-12-24,CUST-109,Consumer,South,Karnataka,Technology,Headphones,6,0.0,15000.0,901.54,12,2024,6.01
+ORD-1183,2024-05-23,CUST-145,Consumer,South,Karnataka,Technology,Phone,2,0.0,40000.0,13194.04,5,2024,32.99
+ORD-1984,2024-03-04,CUST-148,Corporate,South,Karnataka,Furniture,Sofa,2,0.2,28800.0,-91.88,3,2024,-0.32
+ORD-1521,2023-04-17,CUST-161,Consumer,West,Maharashtra,Technology,Phone,5,0.0,100000.0,24274.13,4,2023,24.27
+ORD-1664,2024-03-12,CUST-088,Consumer,East,Odisha,Furniture,Table,7,0.0,63000.0,6563.47,3,2024,10.42
+ORD-1791,2023-11-28,CUST-174,Home Office,South,Tamil Nadu,Office Supplies,Binder,4,0.05,456.0,74.84,11,2023,16.41
+ORD-1920,2024-09-29,CUST-157,Home Office,East,West Bengal,Technology,Headphones,5,0.05,11875.0,-215.92,9,2024,-1.82
+ORD-1891,2024-06-02,CUST-160,Consumer,North,Punjab,Furniture,Sofa,6,0.0,108000.0,27154.91,6,2024,25.14
+ORD-1897,2023-02-09,CUST-194,Home Office,North,Delhi,Technology,Phone,5,0.05,95000.0,373.44,2,2023,0.39
+ORD-1456,2023-04-19,CUST-162,Home Office,East,West Bengal,Office Supplies,Binder,4,0.1,432.0,10.27,4,2023,2.38
+ORD-1677,2023-03-03,CUST-020,Home Office,North,Punjab,Technology,Headphones,1,0.0,2500.0,322.85,3,2023,12.91
+ORD-1447,2024-11-28,CUST-199,Consumer,North,Delhi,Office Supplies,Binder,6,0.0,720.0,-22.16,11,2024,-3.08
+ORD-1089,2024-08-30,CUST-015,Home Office,South,Karnataka,Technology,Laptop,3,0.0,135000.0,10254.51,8,2024,7.6
+ORD-1146,2023-01-26,CUST-131,Home Office,North,Delhi,Office Supplies,Pen Set,4,0.0,600.0,100.63,1,2023,16.77
+ORD-1863,2024-07-17,CUST-130,Consumer,West,Maharashtra,Technology,Laptop,1,0.2,36000.0,4939.44,7,2024,13.72
+ORD-1451,2024-11-06,CUST-164,Home Office,East,West Bengal,Office Supplies,Binder,1,0.1,108.0,24.63,11,2024,22.81
+ORD-1438,2023-03-01,CUST-147,Home Office,West,Gujarat,Technology,Printer,5,0.05,42750.0,7244.04,3,2023,16.95
+ORD-1441,2023-08-08,CUST-085,Corporate,South,Tamil Nadu,Technology,Laptop,4,0.2,144000.0,30553.85,8,2023,21.22
+ORD-1193,2023-09-22,CUST-056,Home Office,East,Odisha,Office Supplies,Notebook,1,0.05,76.0,9.67,9,2023,12.72
+ORD-1070,2024-08-03,CUST-018,Home Office,East,Odisha,Technology,Headphones,5,0.0,12500.0,2073.58,8,2024,16.59
+ORD-1400,2024-12-29,CUST-051,Consumer,West,Maharashtra,Technology,Headphones,5,0.05,11875.0,-487.9,12,2024,-4.11
+ORD-1671,2024-03-24,CUST-042,Consumer,West,Maharashtra,Furniture,Chair,5,0.2,18000.0,2528.51,3,2024,14.05
+ORD-1338,2023-05-28,CUST-052,Consumer,South,Karnataka,Furniture,Bookcase,3,0.2,16800.0,3476.18,5,2023,20.69
+ORD-1690,2024-12-28,CUST-115,Consumer,North,Delhi,Office Supplies,Pen Set,1,0.0,150.0,3.57,12,2024,2.38
+ORD-1696,2024-06-10,CUST-054,Corporate,East,West Bengal,Technology,Phone,1,0.0,20000.0,1102.56,6,2024,5.51
+ORD-1199,2024-12-03,CUST-098,Corporate,East,Odisha,Office Supplies,Notebook,3,0.05,228.0,5.84,12,2024,2.56
+ORD-1857,2023-02-11,CUST-173,Corporate,South,Tamil Nadu,Office Supplies,Notebook,2,0.05,152.0,13.81,2,2023,9.09
+ORD-1455,2024-02-10,CUST-091,Corporate,North,Punjab,Technology,Headphones,5,0.05,11875.0,848.15,2,2024,7.14
+ORD-1185,2023-11-22,CUST-077,Corporate,West,Maharashtra,Furniture,Chair,2,0.2,7200.0,1816.69,11,2023,25.23
+ORD-1803,2024-11-01,CUST-083,Home Office,North,Delhi,Technology,Laptop,7,0.0,315000.0,40713.84,11,2024,12.93
+ORD-1578,2024-10-14,CUST-074,Consumer,North,Punjab,Office Supplies,Binder,6,0.2,576.0,85.62,10,2024,14.86
+ORD-1213,2023-11-25,CUST-014,Home Office,West,Maharashtra,Office Supplies,Binder,5,0.0,600.0,161.94,11,2023,26.99
+ORD-1310,2024-05-01,CUST-158,Corporate,North,Delhi,Furniture,Chair,6,0.2,21600.0,4300.9,5,2024,19.91
+ORD-1295,2024-01-16,CUST-020,Home Office,East,Odisha,Technology,Laptop,4,0.2,144000.0,27558.61,1,2024,19.14
+ORD-1074,2024-05-16,CUST-077,Corporate,East,West Bengal,Office Supplies,Notebook,3,0.1,216.0,60.95,5,2024,28.22
+ORD-1231,2024-09-17,CUST-015,Consumer,South,Tamil Nadu,Furniture,Chair,5,0.2,18000.0,-1823.68,9,2024,-10.13
+ORD-1205,2023-07-14,CUST-117,Home Office,North,Delhi,Technology,Headphones,3,0.05,7125.0,1558.49,7,2023,21.87
+ORD-1947,2023-04-08,CUST-175,Home Office,West,Gujarat,Office Supplies,Pen Set,3,0.05,427.5,101.0,4,2023,23.63
+ORD-1084,2024-04-04,CUST-148,Consumer,North,Punjab,Office Supplies,Pen Set,3,0.05,427.5,32.71,4,2024,7.65
+ORD-1370,2023-09-02,CUST-020,Home Office,East,Odisha,Office Supplies,Pen Set,7,0.0,1050.0,361.47,9,2023,34.43
+ORD-1702,2023-05-03,CUST-037,Corporate,East,West Bengal,Technology,Headphones,5,0.2,10000.0,1881.72,5,2023,18.82
+ORD-1288,2024-01-31,CUST-175,Home Office,South,Tamil Nadu,Office Supplies,Pen Set,4,0.2,480.0,88.26,1,2024,18.39
+ORD-1458,2024-09-05,CUST-122,Consumer,North,Delhi,Office Supplies,Binder,5,0.0,600.0,154.63,9,2024,25.77
+ORD-1142,2023-07-21,CUST-073,Consumer,South,Tamil Nadu,Furniture,Table,5,0.1,40500.0,10365.69,7,2023,25.59
+ORD-1212,2024-07-29,CUST-153,Corporate,South,Karnataka,Office Supplies,Notebook,4,0.05,304.0,66.01,7,2024,21.71
+ORD-1536,2023-11-29,CUST-116,Consumer,North,Punjab,Office Supplies,Stapler,6,0.0,1500.0,393.78,11,2023,26.25
+ORD-1810,2023-02-02,CUST-184,Consumer,South,Tamil Nadu,Technology,Phone,6,0.0,120000.0,10796.85,2,2023,9.0
+ORD-1251,2023-12-27,CUST-018,Consumer,North,Delhi,Furniture,Chair,3,0.0,13500.0,5545.17,12,2023,41.08
+ORD-1488,2024-07-12,CUST-040,Corporate,North,Delhi,Furniture,Sofa,4,0.2,57600.0,8070.16,7,2024,14.01
+ORD-1540,2024-06-01,CUST-123,Consumer,East,West Bengal,Technology,Headphones,6,0.1,13500.0,1146.39,6,2024,8.49
+ORD-1926,2024-01-31,CUST-062,Corporate,South,Karnataka,Furniture,Chair,3,0.0,13500.0,46.58,1,2024,0.35
+ORD-1471,2024-08-10,CUST-151,Corporate,East,Odisha,Technology,Phone,3,0.2,48000.0,9266.12,8,2024,19.3
+ORD-1001,2024-07-18,CUST-174,Home Office,North,Delhi,Furniture,Sofa,4,0.2,57600.0,14968.53,7,2024,25.99
+ORD-1109,2024-05-29,CUST-057,Home Office,West,Maharashtra,Furniture,Chair,6,0.0,27000.0,6867.83,5,2024,25.44
+ORD-1160,2024-12-28,CUST-185,Corporate,East,Odisha,Technology,Laptop,6,0.0,270000.0,60686.9,12,2024,22.48
+ORD-1659,2023-07-30,CUST-144,Corporate,West,Maharashtra,Technology,Headphones,7,0.05,16625.0,3448.28,7,2023,20.74
+ORD-1819,2024-12-30,CUST-151,Corporate,East,Odisha,Office Supplies,Notebook,2,0.0,160.0,44.34,12,2024,27.71
+ORD-1437,2024-11-08,CUST-189,Corporate,North,Delhi,Office Supplies,Binder,6,0.2,576.0,80.93,11,2024,14.05
+ORD-1397,2023-05-24,CUST-150,Home Office,East,Odisha,Technology,Printer,7,0.05,59850.0,16085.47,5,2023,26.88
+ORD-1911,2023-05-14,CUST-072,Consumer,West,Maharashtra,Technology,Headphones,3,0.05,7125.0,1818.22,5,2023,25.52
+ORD-1172,2024-07-17,CUST-040,Corporate,South,Karnataka,Office Supplies,Pen Set,2,0.0,300.0,85.56,7,2024,28.52
+ORD-1128,2024-02-24,CUST-054,Consumer,East,Odisha,Furniture,Bookcase,2,0.05,13300.0,2010.26,2,2024,15.11
+ORD-1915,2023-12-01,CUST-176,Corporate,North,Punjab,Technology,Printer,6,0.0,54000.0,10988.9,12,2023,20.35
+ORD-1293,2023-08-31,CUST-119,Home Office,West,Maharashtra,Furniture,Table,3,0.0,27000.0,3552.36,8,2023,13.16
+ORD-1787,2024-05-15,CUST-072,Consumer,East,Odisha,Furniture,Chair,6,0.05,25650.0,3500.88,5,2024,13.65
+ORD-1169,2023-01-17,CUST-102,Corporate,East,Odisha,Technology,Phone,1,0.0,20000.0,4502.51,1,2023,22.51
+ORD-1840,2023-07-30,CUST-051,Consumer,West,Maharashtra,Technology,Headphones,6,0.0,15000.0,1922.2,7,2023,12.81
+ORD-1836,2024-08-13,CUST-101,Corporate,South,Karnataka,Technology,Phone,6,0.0,120000.0,43860.91,8,2024,36.55
+ORD-1646,2023-12-03,CUST-116,Consumer,North,Delhi,Furniture,Bookcase,7,0.2,39200.0,8949.08,12,2023,22.83
+ORD-1077,2023-06-15,CUST-117,Home Office,East,West Bengal,Furniture,Sofa,2,0.0,36000.0,6227.66,6,2023,17.3
+ORD-1486,2023-09-01,CUST-149,Corporate,North,Punjab,Technology,Laptop,7,0.0,315000.0,71684.24,9,2023,22.76
+ORD-1662,2023-01-26,CUST-128,Corporate,South,Karnataka,Office Supplies,Stapler,1,0.0,250.0,22.27,1,2023,8.91
+ORD-1412,2023-07-23,CUST-096,Home Office,South,Karnataka,Furniture,Sofa,5,0.05,85500.0,15502.68,7,2023,18.13
+ORD-1979,2024-02-18,CUST-006,Consumer,West,Maharashtra,Furniture,Table,7,0.05,59850.0,5455.95,2,2024,9.12
+ORD-1864,2024-09-09,CUST-024,Corporate,South,Karnataka,Technology,Phone,1,0.0,20000.0,4379.64,9,2024,21.9
+ORD-1658,2023-02-22,CUST-052,Home Office,South,Tamil Nadu,Furniture,Chair,6,0.1,24300.0,6404.74,2,2023,26.36
+ORD-1175,2023-12-04,CUST-110,Consumer,South,Tamil Nadu,Office Supplies,Binder,5,0.0,600.0,55.28,12,2023,9.21
+ORD-1688,2023-11-21,CUST-106,Consumer,East,West Bengal,Furniture,Sofa,1,0.0,18000.0,4455.77,11,2023,24.75
+ORD-1409,2023-01-11,CUST-052,Corporate,East,Odisha,Furniture,Table,7,0.0,63000.0,13221.79,1,2023,20.99
+ORD-1379,2023-07-11,CUST-175,Consumer,North,Delhi,Office Supplies,Binder,4,0.05,456.0,99.81,7,2023,21.89
+ORD-1200,2023-09-25,CUST-075,Corporate,East,Odisha,Office Supplies,Pen Set,3,0.0,450.0,141.75,9,2023,31.5
+ORD-1684,2023-05-04,CUST-186,Consumer,South,Karnataka,Furniture,Bookcase,6,0.0,42000.0,3473.12,5,2023,8.27
+ORD-1837,2023-05-25,CUST-053,Corporate,North,Delhi,Office Supplies,Pen Set,4,0.0,540.0,146.26,5,2023,27.09
+ORD-1468,2023-05-13,CUST-108,Home Office,South,Karnataka,Office Supplies,Notebook,3,0.2,192.0,68.65,5,2023,35.76
+ORD-1706,2023-01-06,CUST-037,Home Office,South,Karnataka,Office Supplies,Notebook,1,0.1,72.0,6.39,1,2023,8.88
+ORD-1905,2024-06-01,CUST-155,Consumer,West,Maharashtra,Office Supplies,Binder,7,0.05,798.0,56.37,6,2024,7.06
+ORD-1388,2024-10-13,CUST-058,Home Office,South,Tamil Nadu,Technology,Headphones,5,0.1,11250.0,2404.58,10,2024,21.37
+ORD-1363,2024-10-14,CUST-027,Corporate,South,Tamil Nadu,Furniture,Table,3,0.0,27000.0,10971.25,10,2024,40.63
+ORD-1987,2023-08-19,CUST-151,Home Office,East,Odisha,Furniture,Chair,5,0.0,22500.0,6198.45,8,2023,27.55
+ORD-1152,2024-10-31,CUST-162,Corporate,West,Gujarat,Technology,Laptop,3,0.05,128250.0,24416.32,10,2024,19.04
+ORD-1841,2024-04-24,CUST-025,Corporate,West,Maharashtra,Furniture,Bookcase,2,0.0,14000.0,1594.63,4,2024,11.39
+ORD-1291,2023-07-14,CUST-037,Home Office,East,Odisha,Office Supplies,Pen Set,5,0.0,750.0,227.42,7,2023,30.32
+ORD-1827,2024-10-16,CUST-082,Corporate,South,Karnataka,Technology,Headphones,3,0.1,6750.0,1505.27,10,2024,22.3
+ORD-1888,2023-01-12,CUST-117,Consumer,South,Karnataka,Furniture,Chair,1,0.0,4500.0,1297.28,1,2023,28.83
+ORD-1917,2024-07-26,CUST-068,Home Office,South,Karnataka,Technology,Printer,3,0.1,24300.0,4182.04,7,2024,17.21
+ORD-1091,2024-08-10,CUST-018,Corporate,South,Karnataka,Technology,Phone,3,0.0,60000.0,14027.93,8,2024,23.38
+ORD-1226,2024-08-13,CUST-083,Corporate,West,Gujarat,Furniture,Chair,1,0.1,4050.0,1279.49,8,2024,31.59
+ORD-1267,2023-09-11,CUST-080,Corporate,West,Maharashtra,Furniture,Sofa,3,0.1,48600.0,11328.4,9,2023,23.31
+ORD-1867,2024-09-03,CUST-057,Consumer,East,West Bengal,Office Supplies,Pen Set,6,0.05,855.0,145.86,9,2024,17.06
+ORD-1315,2024-04-26,CUST-081,Corporate,East,Odisha,Office Supplies,Pen Set,3,0.0,450.0,130.82,4,2024,29.07
+ORD-1780,2024-10-02,CUST-114,Consumer,South,Tamil Nadu,Furniture,Chair,2,0.0,9000.0,4.69,10,2024,0.05
+ORD-1322,2024-03-24,CUST-055,Consumer,West,Maharashtra,Technology,Laptop,3,0.0,135000.0,25215.25,3,2024,18.68
+ORD-1062,2023-09-25,CUST-145,Consumer,South,Tamil Nadu,Furniture,Sofa,2,0.1,32400.0,5244.71,9,2023,16.19
+ORD-1018,2024-09-05,CUST-143,Home Office,South,Karnataka,Office Supplies,Pen Set,2,0.1,270.0,54.75,9,2024,20.28
+ORD-1686,2023-10-24,CUST-067,Home Office,West,Gujarat,Technology,Laptop,6,0.0,270000.0,61391.89,10,2023,22.74
+ORD-1640,2024-05-04,CUST-118,Corporate,South,Tamil Nadu,Technology,Printer,3,0.2,21600.0,6974.04,5,2024,32.29
+ORD-1280,2023-07-21,CUST-119,Home Office,East,Odisha,Office Supplies,Binder,1,0.0,120.0,18.59,7,2023,15.49
+ORD-1752,2023-03-04,CUST-009,Home Office,West,Maharashtra,Technology,Laptop,1,0.1,40500.0,7149.34,3,2023,17.65
+ORD-1967,2023-08-20,CUST-160,Home Office,South,Tamil Nadu,Furniture,Sofa,1,0.0,18000.0,3965.43,8,2023,22.03
+ORD-1542,2023-05-23,CUST-094,Consumer,North,Delhi,Furniture,Bookcase,6,0.2,33600.0,2382.92,5,2023,7.09
+ORD-1258,2023-05-08,CUST-185,Consumer,South,Tamil Nadu,Office Supplies,Stapler,4,0.1,900.0,50.68,5,2023,5.63
+ORD-1022,2023-05-14,CUST-001,Consumer,West,Gujarat,Furniture,Table,7,0.1,56700.0,7321.69,5,2023,12.91
+ORD-1418,2023-08-05,CUST-142,Home Office,South,Karnataka,Office Supplies,Binder,6,0.1,648.0,177.87,8,2023,27.45
+ORD-1286,2023-04-28,CUST-033,Corporate,North,Delhi,Technology,Laptop,7,0.0,315000.0,-1928.53,4,2023,-0.61
+ORD-1515,2023-03-18,CUST-036,Home Office,unknown,Gujarat,Technology,Headphones,3,0.2,6000.0,697.43,3,2023,11.62
+ORD-1188,2023-06-24,CUST-131,Home Office,West,Maharashtra,Office Supplies,Stapler,4,0.2,800.0,358.05,6,2023,44.76
+ORD-1235,2024-06-09,CUST-135,Corporate,South,Karnataka,Office Supplies,Notebook,7,0.0,560.0,104.39,6,2024,18.64
+ORD-1654,2024-02-08,CUST-125,Home Office,North,Punjab,Technology,Printer,4,0.0,36000.0,2628.59,2,2024,7.3
+ORD-1747,2023-08-18,CUST-186,Consumer,West,Maharashtra,Technology,Laptop,4,0.05,171000.0,3530.82,8,2023,2.06
+ORD-1476,2024-09-10,CUST-147,Consumer,East,Odisha,Technology,Printer,5,0.1,40500.0,19410.49,9,2024,47.93
+ORD-1667,2024-09-20,CUST-076,Home Office,West,Maharashtra,Technology,Phone,4,0.1,72000.0,20949.4,9,2024,29.1
+ORD-1273,2024-11-30,CUST-008,Consumer,West,Gujarat,Office Supplies,Binder,5,0.1,540.0,100.92,11,2024,18.69
+ORD-1956,2023-10-20,CUST-193,Consumer,South,Tamil Nadu,Furniture,Chair,1,0.2,3600.0,814.45,10,2023,22.62
+ORD-1227,2024-02-27,CUST-039,Home Office,North,Delhi,Furniture,Chair,3,0.05,12825.0,3090.43,2,2024,24.1
+ORD-1241,2024-03-02,CUST-048,Corporate,West,Maharashtra,Office Supplies,Binder,2,0.1,216.0,-2.98,3,2024,-1.38
+ORD-1887,2023-05-21,CUST-115,Consumer,North,Delhi,Technology,Headphones,5,0.0,12500.0,745.83,5,2023,5.97
+ORD-1907,2023-05-07,CUST-087,Consumer,East,West Bengal,Office Supplies,Pen Set,6,0.0,900.0,105.67,5,2023,11.74
+ORD-1107,2024-04-30,CUST-178,Consumer,North,Punjab,Furniture,Bookcase,6,0.1,37800.0,8522.43,4,2024,22.55
+ORD-1757,2023-10-07,CUST-003,Corporate,South,Tamil Nadu,Furniture,Chair,2,0.0,9000.0,1248.98,10,2023,13.88
+ORD-1908,2023-09-28,CUST-078,Consumer,South,Tamil Nadu,Furniture,Sofa,7,0.1,113400.0,39259.89,9,2023,34.62
+ORD-1802,2024-01-12,CUST-084,Home Office,East,Odisha,Technology,Phone,1,0.0,20000.0,4869.19,1,2024,24.35
+ORD-1480,2023-07-30,CUST-067,Consumer,East,Odisha,Technology,Laptop,2,0.1,81000.0,24066.56,7,2023,29.71
+ORD-1080,2024-11-17,CUST-063,Home Office,West,Maharashtra,Technology,Phone,2,0.0,40000.0,6139.36,11,2024,15.35
+ORD-1939,2024-01-07,CUST-087,Consumer,South,Karnataka,Furniture,Chair,3,0.05,12825.0,735.51,1,2024,5.73
+ORD-1989,2024-07-28,CUST-158,Consumer,South,Tamil Nadu,Technology,Laptop,5,0.0,225000.0,8465.9,7,2024,3.76
+ORD-1973,2023-12-13,CUST-002,Corporate,North,Punjab,Furniture,Sofa,4,0.0,72000.0,-61.49,12,2023,-0.09
+ORD-1030,2023-11-25,CUST-142,Corporate,East,West Bengal,Office Supplies,Binder,6,0.2,576.0,75.67,11,2023,13.14
+ORD-1010,2024-01-20,CUST-039,Consumer,North,Punjab,Furniture,Chair,7,0.0,31500.0,-248.57,1,2024,-0.79
+ORD-1685,2024-08-07,CUST-065,Consumer,South,Tamil Nadu,Technology,Laptop,6,0.0,270000.0,51565.46,8,2024,19.1
+ORD-1618,2023-02-14,CUST-051,Consumer,East,West Bengal,Technology,Laptop,2,0.0,90000.0,6259.08,2,2023,6.95
+ORD-1347,2024-11-14,CUST-066,Corporate,North,Delhi,Office Supplies,Notebook,5,0.0,400.0,72.68,11,2024,18.17
+ORD-1157,2024-02-11,CUST-062,Consumer,West,Maharashtra,Office Supplies,Notebook,1,0.0,80.0,31.1,2,2024,38.88
+ORD-1462,2024-06-30,CUST-195,Home Office,East,Odisha,Technology,Phone,5,0.0,100000.0,9666.42,6,2024,9.67
+ORD-1940,2024-05-19,CUST-072,Consumer,unknown,Maharashtra,Office Supplies,Notebook,7,0.0,560.0,103.26,5,2024,18.44
+ORD-1257,2023-03-17,CUST-050,Consumer,East,Odisha,Office Supplies,Stapler,1,0.0,250.0,28.03,3,2023,11.21
+ORD-1793,2024-08-25,CUST-043,Home Office,West,Gujarat,Technology,Phone,7,0.05,133000.0,33691.59,8,2024,25.33
+ORD-1839,2024-10-26,CUST-150,Consumer,South,Karnataka,Furniture,Bookcase,3,0.05,19950.0,3314.08,10,2024,16.61
+ORD-1004,2023-11-13,CUST-101,Home Office,North,Punjab,Technology,Laptop,5,0.0,225000.0,-39542.28,11,2023,-17.57
+ORD-1508,2023-07-16,CUST-040,Consumer,North,Punjab,Technology,Headphones,5,0.1,11250.0,1421.45,7,2023,12.64
+ORD-1198,2023-09-05,CUST-141,Corporate,South,Tamil Nadu,Furniture,Table,6,0.1,48600.0,4522.07,9,2023,9.3
+ORD-1116,2023-01-28,CUST-140,Consumer,North,Punjab,Technology,Printer,1,0.05,8550.0,125.87,1,2023,1.47
+ORD-1279,2023-03-02,CUST-077,Consumer,East,Odisha,Furniture,Chair,2,0.05,8550.0,426.19,3,2023,4.98
+ORD-1204,2023-11-30,CUST-142,Corporate,South,Karnataka,Technology,Laptop,2,0.0,90000.0,15955.0,11,2023,17.73
+ORD-1992,2023-05-24,CUST-126,Corporate,South,Tamil Nadu,Furniture,Sofa,6,0.2,86400.0,10351.12,5,2023,11.98
+ORD-1174,2024-05-23,CUST-041,Corporate,South,Karnataka,Technology,Headphones,1,0.05,2375.0,552.61,5,2024,23.27
+ORD-1883,2023-04-24,CUST-126,Home Office,South,Tamil Nadu,Office Supplies,Pen Set,3,0.0,450.0,44.69,4,2023,9.93
+ORD-1879,2024-04-04,CUST-115,Home Office,West,Maharashtra,Furniture,Table,5,0.0,45000.0,11030.45,4,2024,24.51
+ORD-1202,2023-12-28,CUST-038,Home Office,South,Karnataka,Technology,Laptop,3,0.0,135000.0,33425.67,12,2023,24.76
+ORD-1636,2023-06-21,CUST-008,Corporate,South,Karnataka,Technology,Phone,5,0.0,100000.0,12438.66,6,2023,12.44
+ORD-1930,2024-01-28,CUST-004,Corporate,West,Maharashtra,Technology,Laptop,2,0.0,90000.0,16536.73,1,2024,18.37
+ORD-1119,2023-03-25,CUST-140,Home Office,South,Tamil Nadu,Furniture,Table,1,0.2,7200.0,1229.16,3,2023,17.07
+ORD-1177,2023-04-28,CUST-014,Home Office,North,Punjab,Furniture,Chair,7,0.0,31500.0,4247.92,4,2023,13.49
+ORD-1275,2023-12-19,CUST-087,Consumer,West,Maharashtra,Technology,Headphones,3,0.0,7500.0,1359.89,12,2023,18.13
+ORD-1694,2023-03-07,CUST-109,Corporate,North,Punjab,Furniture,Table,4,0.2,28800.0,2984.27,3,2023,10.36
+ORD-1013,2024-07-09,CUST-187,Home Office,East,West Bengal,Office Supplies,Pen Set,6,0.05,855.0,221.89,7,2024,25.95
+ORD-1248,2024-07-28,CUST-004,Home Office,North,Delhi,Furniture,Table,1,0.1,8100.0,2454.22,7,2024,30.3
+ORD-1919,2024-04-09,CUST-052,Corporate,East,Odisha,Office Supplies,Stapler,4,0.0,1000.0,144.06,4,2024,14.41
+ORD-1983,2024-04-18,CUST-001,Home Office,North,Delhi,Technology,Laptop,3,0.2,108000.0,29277.12,4,2024,27.11
+ORD-1975,2023-06-14,CUST-148,Consumer,East,Odisha,Furniture,Chair,2,0.0,9000.0,1753.17,6,2023,19.48
+ORD-1951,2023-08-11,CUST-036,Corporate,West,Gujarat,Office Supplies,Stapler,3,0.0,750.0,-55.55,8,2023,-7.41
+ORD-1878,2024-02-05,CUST-118,Home Office,West,Maharashtra,Technology,Printer,1,0.2,7200.0,2027.09,2,2024,28.15
+ORD-1544,2024-08-29,CUST-049,Consumer,East,West Bengal,Office Supplies,Pen Set,1,0.0,150.0,36.84,8,2024,24.56
+ORD-1572,2023-07-26,CUST-132,Home Office,South,Tamil Nadu,Furniture,Chair,6,0.05,25650.0,5083.44,7,2023,19.82
+ORD-1853,2023-06-24,CUST-151,Consumer,North,Punjab,Office Supplies,Pen Set,4,0.05,570.0,112.96,6,2023,19.82
+ORD-1129,2024-04-08,CUST-057,Consumer,unknown,Maharashtra,Office Supplies,Binder,3,0.0,360.0,80.01,4,2024,22.22
+ORD-1090,2023-11-14,CUST-079,Corporate,South,Tamil Nadu,Furniture,Sofa,2,0.05,34200.0,5459.47,11,2023,15.96
+ORD-1309,2023-03-21,CUST-059,Corporate,East,West Bengal,Furniture,Sofa,1,0.05,17100.0,6724.78,3,2023,39.33
+ORD-1126,2023-02-27,CUST-153,Corporate,North,Delhi,Furniture,Table,2,0.0,18000.0,4362.47,2,2023,24.24
+ORD-1327,2023-01-28,CUST-090,Home Office,North,Punjab,Technology,Phone,4,0.0,80000.0,29217.53,1,2023,36.52
+ORD-1163,2023-10-24,CUST-171,Corporate,West,Maharashtra,Office Supplies,Binder,7,0.2,672.0,282.52,10,2023,42.04
+ORD-1111,2024-07-23,CUST-144,Home Office,East,West Bengal,Office Supplies,Stapler,3,0.1,675.0,206.19,7,2024,30.55
+ORD-1710,2024-05-10,CUST-081,Corporate,West,Gujarat,Technology,Headphones,7,0.0,17500.0,3806.7,5,2024,21.75
+ORD-1770,2024-04-20,CUST-086,Home Office,North,Delhi,Office Supplies,Stapler,7,0.05,1662.5,377.97,4,2024,22.74
+ORD-1600,2024-03-25,CUST-170,Consumer,South,Tamil Nadu,Furniture,Sofa,7,0.1,113400.0,3003.91,3,2024,2.65
+ORD-1414,2023-01-14,CUST-145,Consumer,South,Karnataka,Furniture,Sofa,3,0.2,43200.0,17589.57,1,2023,40.72
+ORD-1727,2023-03-06,CUST-136,Corporate,North,Delhi,Technology,Headphones,3,0.2,6000.0,1845.73,3,2023,30.76
+ORD-1893,2024-12-16,CUST-098,Corporate,South,Karnataka,Furniture,Chair,3,0.2,10800.0,2177.71,12,2024,20.16
+ORD-1704,2023-04-05,CUST-104,Home Office,East,West Bengal,Technology,Printer,1,0.2,7200.0,-406.09,4,2023,-5.64
+ORD-1826,2024-05-11,CUST-023,Consumer,East,West Bengal,Technology,Laptop,6,0.2,216000.0,42422.14,5,2024,19.64
+ORD-1072,2023-12-04,CUST-087,Home Office,West,Gujarat,Technology,Printer,4,0.0,36000.0,12646.74,12,2023,35.13
+ORD-1002,2024-04-22,CUST-147,Consumer,North,Delhi,Technology,Laptop,4,0.0,180000.0,25732.66,4,2024,14.3
+ORD-1375,2023-03-10,CUST-068,Home Office,unknown,Tamil Nadu,Furniture,Chair,2,0.2,7200.0,2017.03,3,2023,28.01
+ORD-1411,2023-06-17,CUST-092,Corporate,unknown,Karnataka,Technology,Headphones,4,0.0,10000.0,3848.12,6,2023,38.48
+ORD-1453,2023-01-19,CUST-106,Consumer,East,Odisha,Office Supplies,Notebook,4,0.0,304.0,58.91,1,2023,19.38
+ORD-1012,2024-06-21,CUST-159,Home Office,West,Gujarat,Technology,Printer,4,0.1,32400.0,4846.87,6,2024,14.96
+ORD-1818,2024-04-30,CUST-096,Corporate,West,Maharashtra,Technology,Phone,4,0.0,80000.0,12774.31,4,2024,15.97
+ORD-1744,2024-08-03,CUST-106,Home Office,West,Gujarat,Office Supplies,Binder,1,0.05,114.0,21.81,8,2024,19.13
+ORD-1695,2023-07-04,CUST-134,Consumer,West,Maharashtra,Technology,Laptop,1,0.0,45000.0,6852.28,7,2023,15.23
+ORD-1731,2023-11-02,CUST-187,Corporate,North,Punjab,Technology,Printer,3,0.1,24300.0,6883.56,11,2023,28.33
+ORD-1108,2023-12-11,CUST-183,Home Office,North,Punjab,Technology,Laptop,7,0.2,252000.0,13757.88,12,2023,5.46
+ORD-1504,2023-07-20,CUST-144,Corporate,South,Karnataka,Office Supplies,Notebook,2,0.2,128.0,12.57,7,2023,9.82
+ORD-1365,2024-01-14,CUST-112,Corporate,North,Punjab,Technology,Phone,2,0.2,32000.0,14505.33,1,2024,45.33
+ORD-1181,2023-04-22,CUST-078,Corporate,East,West Bengal,Office Supplies,Binder,7,0.1,756.0,186.53,4,2023,24.67
+ORD-1355,2024-12-25,CUST-017,Consumer,East,West Bengal,Furniture,Chair,4,0.2,14400.0,2436.15,12,2024,16.92
+ORD-1958,2024-12-10,CUST-008,Corporate,North,Delhi,Technology,Phone,4,0.0,80000.0,17544.97,12,2024,21.93
+ORD-1535,2023-04-23,CUST-050,Corporate,East,West Bengal,Furniture,Chair,3,0.0,13500.0,2181.77,4,2023,16.16
+ORD-1308,2023-08-19,CUST-016,Corporate,West,Maharashtra,Office Supplies,Pen Set,1,0.2,120.0,20.24,8,2023,16.87
+ORD-1851,2024-08-08,CUST-185,Home Office,West,Gujarat,Technology,Phone,4,0.0,80000.0,38598.8,8,2024,48.25
+ORD-1304,2024-02-01,CUST-152,Corporate,North,Punjab,Technology,Headphones,2,0.0,5000.0,1019.03,2,2024,20.38
+ORD-1789,2023-01-09,CUST-004,Corporate,West,Maharashtra,Technology,Printer,1,0.2,7200.0,1141.2,1,2023,15.85
+ORD-1343,2024-01-11,CUST-119,Consumer,West,Maharashtra,Office Supplies,Binder,4,0.1,432.0,104.08,1,2024,24.09
+ORD-1042,2024-05-26,CUST-156,Corporate,South,Karnataka,Furniture,Bookcase,3,0.1,18900.0,2438.61,5,2024,12.9
+ORD-1481,2024-08-28,CUST-156,Home Office,South,Tamil Nadu,Technology,Laptop,7,0.0,315000.0,25632.49,8,2024,8.14
+ORD-1639,2024-11-23,CUST-178,Home Office,North,Punjab,Technology,Printer,7,0.2,50400.0,9352.08,11,2024,18.56
+ORD-1977,2024-02-22,CUST-119,Consumer,West,Maharashtra,Office Supplies,Binder,1,0.1,108.0,7.19,2,2024,6.66
+ORD-1546,2023-11-10,CUST-057,Home Office,North,Delhi,Technology,Phone,7,0.05,133000.0,34930.24,11,2023,26.26
+ORD-1779,2024-09-12,CUST-103,Corporate,East,Odisha,Furniture,Chair,3,0.0,13500.0,1551.83,9,2024,11.5
+ORD-1511,2024-06-28,CUST-014,Home Office,North,Delhi,Furniture,Bookcase,3,0.0,21000.0,6927.54,6,2024,32.99
+ORD-1294,2024-02-02,CUST-040,Home Office,North,Delhi,Office Supplies,Stapler,7,0.2,1400.0,246.41,2,2024,17.6
+ORD-1961,2023-10-26,CUST-090,Consumer,East,Odisha,Furniture,Table,2,0.1,16200.0,970.98,10,2023,5.99
+ORD-1877,2024-06-27,CUST-008,Corporate,South,Karnataka,Furniture,Bookcase,6,0.0,42000.0,11254.59,6,2024,26.8
+ORD-1783,2023-03-31,CUST-031,Home Office,South,Karnataka,Furniture,Table,4,0.0,36000.0,4445.62,3,2023,12.35
+ORD-1595,2024-08-08,CUST-192,Home Office,East,West Bengal,Technology,Laptop,3,0.05,128250.0,22464.13,8,2024,17.52
+ORD-1580,2023-03-10,CUST-013,Home Office,South,Karnataka,Office Supplies,Pen Set,5,0.0,750.0,-11.52,3,2023,-1.54
+ORD-1398,2023-07-24,CUST-100,Home Office,North,Delhi,Technology,Phone,5,0.1,90000.0,24504.83,7,2023,27.23
+ORD-1444,2024-01-07,CUST-111,Consumer,East,West Bengal,Technology,Laptop,2,0.05,85500.0,30123.14,1,2024,35.23
+ORD-1356,2023-04-21,CUST-043,Consumer,North,Punjab,Furniture,Table,2,0.1,16200.0,206.7,4,2023,1.28
+ORD-1473,2023-12-08,CUST-025,Consumer,North,Delhi,Furniture,Table,3,0.05,25650.0,4639.18,12,2023,18.09
+ORD-1340,2024-04-08,CUST-052,Corporate,East,Odisha,Technology,Laptop,6,0.05,256500.0,86219.65,4,2024,33.61
+ORD-1055,2023-02-01,CUST-016,Corporate,East,West Bengal,Furniture,Sofa,7,0.1,113400.0,44704.57,2,2023,39.42
+ORD-1794,2023-11-11,CUST-005,Corporate,North,Delhi,Technology,Laptop,1,0.0,45000.0,2292.73,11,2023,5.09
+ORD-1884,2024-08-16,CUST-161,Corporate,East,Odisha,Technology,Headphones,1,0.05,2375.0,298.5,8,2024,12.57
+ORD-1344,2024-10-23,CUST-160,Home Office,North,Delhi,Furniture,Bookcase,5,0.1,31500.0,-1370.19,10,2024,-4.35
+ORD-1216,2023-02-27,CUST-126,Home Office,North,Delhi,Office Supplies,Notebook,2,0.0,160.0,14.89,2,2023,9.31
+ORD-1715,2024-08-06,CUST-043,Corporate,South,Karnataka,Office Supplies,Binder,2,0.0,240.0,68.98,8,2024,28.74
+ORD-1040,2023-05-01,CUST-190,Home Office,East,Odisha,Furniture,Sofa,5,0.05,85500.0,21803.37,5,2023,25.5
+ORD-1901,2023-01-31,CUST-157,Corporate,North,Delhi,Office Supplies,Pen Set,6,0.2,720.0,172.84,1,2023,24.01
+ORD-1681,2023-04-11,CUST-050,Corporate,South,Tamil Nadu,Furniture,Table,1,0.0,9000.0,3165.59,4,2023,35.17
+ORD-1391,2023-05-11,CUST-193,Corporate,North,Punjab,Furniture,Chair,7,0.2,25200.0,8638.85,5,2023,34.28
+ORD-1719,2024-03-13,CUST-174,Corporate,East,Odisha,Technology,Printer,3,0.1,24300.0,5429.05,3,2024,22.34
+ORD-1178,2024-10-19,CUST-035,Home Office,East,West Bengal,Technology,Headphones,6,0.05,14250.0,4131.89,10,2024,29.0
+ORD-1176,2024-06-07,CUST-183,Consumer,South,Karnataka,Office Supplies,Binder,3,0.2,288.0,7.19,6,2024,2.5
+ORD-1384,2023-01-24,CUST-094,Consumer,North,Punjab,Furniture,Sofa,7,0.1,113400.0,-447.23,1,2023,-0.39
+ORD-1058,2024-06-26,CUST-061,Home Office,East,West Bengal,Office Supplies,Pen Set,5,0.1,675.0,257.73,6,2024,38.18
+ORD-1464,2023-01-05,CUST-152,Home Office,West,Maharashtra,Furniture,Chair,4,0.05,17100.0,5063.77,1,2023,29.61
+ORD-1894,2024-07-01,CUST-200,Corporate,South,Karnataka,Office Supplies,Stapler,7,0.0,1750.0,511.76,7,2024,29.24
+ORD-1016,2024-01-10,CUST-064,Consumer,East,Odisha,Technology,Printer,3,0.0,27000.0,7776.6,1,2024,28.8
+ORD-1557,2024-09-30,CUST-090,Consumer,North,Delhi,Technology,Phone,1,0.2,16000.0,1124.01,9,2024,7.03
+ORD-1970,2023-08-07,CUST-033,Consumer,East,Odisha,Furniture,Bookcase,3,0.0,21000.0,7374.34,8,2023,35.12
+ORD-1505,2023-11-28,CUST-048,Home Office,South,Karnataka,Technology,Laptop,5,0.1,202500.0,35702.92,11,2023,17.63
+ORD-1705,2024-02-17,CUST-133,Consumer,East,Odisha,Technology,Laptop,6,0.05,256500.0,44132.59,2,2024,17.21
+ORD-1579,2023-03-16,CUST-109,Corporate,East,West Bengal,Technology,Headphones,6,0.1,13500.0,2521.05,3,2023,18.67
+ORD-1641,2024-10-30,CUST-145,Home Office,East,Odisha,Furniture,Bookcase,5,0.2,28000.0,4154.34,10,2024,14.84
+ORD-1830,2023-06-29,CUST-082,Consumer,North,Punjab,Technology,Phone,5,0.0,100000.0,-18876.36,6,2023,-18.88
+ORD-1484,2023-12-04,CUST-158,Corporate,West,Gujarat,Office Supplies,Pen Set,6,0.2,720.0,179.04,12,2023,24.87
+ORD-1643,2023-12-18,CUST-181,Consumer,North,Punjab,Office Supplies,Binder,4,0.05,456.0,159.95,12,2023,35.08
+ORD-1666,2024-01-03,CUST-102,Consumer,East,West Bengal,Office Supplies,Stapler,1,0.0,250.0,67.78,1,2024,27.11
+ORD-1524,2023-08-21,CUST-113,Consumer,South,Tamil Nadu,Technology,Laptop,4,0.1,162000.0,77211.97,8,2023,47.66
+ORD-1423,2024-02-29,CUST-012,Consumer,North,Delhi,Technology,Headphones,5,0.05,11875.0,-441.2,2,2024,-3.72
+ORD-1029,2023-11-20,CUST-051,Consumer,West,Maharashtra,Office Supplies,Pen Set,5,0.2,600.0,206.11,11,2023,34.35
+ORD-1965,2024-03-05,CUST-126,Corporate,South,Tamil Nadu,Technology,Laptop,3,0.1,121500.0,17855.99,3,2024,14.7
+ORD-1872,2023-03-25,CUST-022,Home Office,East,Odisha,Office Supplies,Notebook,1,0.2,64.0,0.01,3,2023,0.02
+ORD-1774,2024-09-09,CUST-123,Consumer,North,Punjab,Furniture,Bookcase,1,0.0,7000.0,532.81,9,2024,7.61
+ORD-1765,2024-07-23,CUST-112,Consumer,South,Tamil Nadu,Technology,Printer,6,0.05,51300.0,12317.01,7,2024,24.01
+ORD-1616,2023-07-02,CUST-048,Corporate,South,Karnataka,Office Supplies,Pen Set,4,0.2,480.0,106.95,7,2023,22.28
+ORD-1869,2023-01-30,CUST-105,Home Office,West,Gujarat,Furniture,Table,3,0.05,25650.0,217.0,1,2023,0.85
+ORD-1203,2024-05-25,CUST-158,Corporate,North,Punjab,Technology,Printer,6,0.0,54000.0,15409.82,5,2024,28.54
+ORD-1371,2024-04-28,CUST-013,Corporate,West,Gujarat,Furniture,Bookcase,6,0.0,42000.0,9601.11,4,2024,22.86
+ORD-1032,2023-03-09,CUST-128,Consumer,South,Tamil Nadu,Technology,Phone,3,0.2,48000.0,20463.47,3,2023,42.63
+ORD-1518,2023-12-14,CUST-143,Corporate,South,Tamil Nadu,Technology,Printer,1,0.1,8100.0,262.92,12,2023,3.25
+ORD-1510,2024-12-27,CUST-131,Consumer,South,Karnataka,Furniture,Sofa,1,0.05,17100.0,1505.22,12,2024,8.8
+ORD-1978,2023-09-14,CUST-092,Consumer,South,Karnataka,Technology,Headphones,3,0.0,7500.0,542.32,9,2023,7.23
+ORD-1156,2023-04-03,CUST-071,Corporate,West,Gujarat,Furniture,Table,3,0.05,25650.0,5546.47,4,2023,21.62
+ORD-1577,2024-01-18,CUST-089,Corporate,South,Tamil Nadu,Furniture,Bookcase,6,0.0,42000.0,12146.91,1,2024,28.92
+ORD-1821,2024-04-30,CUST-125,Consumer,North,Delhi,Office Supplies,Pen Set,3,0.0,450.0,137.12,4,2024,30.47
+ORD-1334,2023-12-02,CUST-034,Consumer,North,Punjab,Technology,Printer,4,0.2,28800.0,2423.33,12,2023,8.41
+ORD-1382,2024-11-22,CUST-168,Consumer,West,Maharashtra,Technology,Printer,1,0.0,9000.0,1496.04,11,2024,16.62
+ORD-1799,2023-11-19,CUST-192,Home Office,West,Maharashtra,Office Supplies,Binder,6,0.0,720.0,156.51,11,2023,21.74
+ORD-1372,2023-10-27,CUST-154,Consumer,South,Karnataka,Office Supplies,Stapler,3,0.0,750.0,237.62,10,2023,31.68
+ORD-1615,2024-04-11,CUST-046,Home Office,South,Karnataka,Technology,Printer,4,0.2,28800.0,1601.43,4,2024,5.56
+ORD-1262,2023-08-07,CUST-192,Corporate,North,Punjab,Office Supplies,Notebook,6,0.2,384.0,7.06,8,2023,1.84
+ORD-1806,2024-02-02,CUST-104,Home Office,South,Karnataka,Office Supplies,Stapler,2,0.1,450.0,67.67,2,2024,15.04
+ORD-1003,2023-11-17,CUST-084,Corporate,West,Maharashtra,Furniture,Bookcase,4,0.2,22400.0,13.28,11,2023,0.06
+ORD-1522,2023-05-21,CUST-051,Consumer,North,Delhi,Technology,Phone,5,0.0,100000.0,7157.59,5,2023,7.16
+ORD-1682,2024-12-01,CUST-159,Corporate,North,Delhi,Technology,Printer,1,0.2,7200.0,1149.48,12,2024,15.97
+ORD-1130,2024-02-17,CUST-020,Consumer,North,Delhi,Office Supplies,Pen Set,1,0.05,142.5,21.62,2,2024,15.17
+ORD-1632,2023-11-13,CUST-176,Consumer,South,Karnataka,Technology,Printer,7,0.05,59850.0,13991.56,11,2023,23.38
+ORD-1673,2023-03-11,CUST-116,Home Office,West,Maharashtra,Office Supplies,Stapler,2,0.2,400.0,101.76,3,2023,25.44
+ORD-1342,2024-03-29,CUST-062,Consumer,South,Karnataka,Office Supplies,Notebook,5,0.05,380.0,54.74,3,2024,14.41
+ORD-1843,2023-01-27,CUST-091,Home Office,South,Tamil Nadu,Office Supplies,Pen Set,5,0.0,750.0,300.56,1,2023,40.07
+ORD-1041,2024-07-07,CUST-095,Consumer,South,Tamil Nadu,Office Supplies,Stapler,5,0.2,1000.0,127.75,7,2024,12.78
+ORD-1321,2023-03-20,CUST-052,Consumer,South,Karnataka,Office Supplies,Stapler,1,0.2,200.0,31.3,3,2023,15.65
+ORD-1222,2024-05-28,CUST-146,Home Office,West,Maharashtra,Office Supplies,Binder,2,0.0,240.0,38.79,5,2024,16.16
+ORD-1328,2023-04-14,CUST-148,Home Office,South,Tamil Nadu,Furniture,Chair,1,0.0,4500.0,658.97,4,2023,14.64
+ORD-1543,2023-05-08,CUST-027,Corporate,South,Karnataka,Furniture,Bookcase,2,0.05,13300.0,6658.13,5,2023,50.06
+ORD-1581,2024-08-31,CUST-055,Corporate,North,Punjab,Technology,Laptop,2,0.2,72000.0,274.2,8,2024,0.38
+ORD-1113,2023-12-02,CUST-066,Consumer,South,Karnataka,Technology,Headphones,2,0.2,4000.0,1045.15,12,2023,26.13
+ORD-1048,2024-05-09,CUST-106,Consumer,South,Karnataka,Furniture,Table,4,0.1,32400.0,1857.37,5,2024,5.73
+ORD-1289,2023-12-12,CUST-158,Consumer,North,Punjab,Technology,Printer,2,0.2,14400.0,3472.97,12,2023,24.12
+ORD-1076,2023-08-30,CUST-010,Corporate,West,Maharashtra,Office Supplies,Notebook,3,0.0,240.0,55.44,8,2023,23.1
+ORD-1206,2024-07-11,CUST-068,Corporate,North,Delhi,Furniture,Sofa,4,0.2,57600.0,6050.74,7,2024,10.5
+ORD-1439,2023-10-18,CUST-071,Consumer,North,Delhi,Office Supplies,Stapler,4,0.2,800.0,301.47,10,2023,37.68
+ORD-1924,2023-07-01,CUST-117,Home Office,South,Tamil Nadu,Furniture,Table,1,0.2,7200.0,-971.28,7,2023,-13.49
+ORD-1285,2024-11-15,CUST-125,Corporate,North,Punjab,Office Supplies,Binder,1,0.0,120.0,10.32,11,2024,8.6
+ORD-1753,2024-11-14,CUST-181,Corporate,West,Gujarat,Technology,Laptop,7,0.0,315000.0,136899.31,11,2024,43.46
+ORD-1386,2023-02-19,CUST-139,Corporate,South,Tamil Nadu,Technology,Printer,4,0.0,36000.0,-690.72,2,2023,-1.92
+ORD-1225,2023-08-12,CUST-049,Home Office,North,Punjab,Technology,Headphones,2,0.05,4750.0,1037.88,8,2023,21.85
+ORD-1962,2024-09-05,CUST-054,Home Office,South,Tamil Nadu,Office Supplies,Notebook,3,0.1,216.0,24.64,9,2024,11.41
+ORD-1120,2023-11-17,CUST-190,Consumer,North,Delhi,Office Supplies,Pen Set,4,0.2,480.0,33.82,11,2023,7.05
+ORD-1507,2023-06-30,CUST-098,Consumer,East,Odisha,Furniture,Bookcase,6,0.0,42000.0,7107.76,6,2023,16.92
+ORD-1922,2023-11-22,CUST-172,Consumer,West,Gujarat,Office Supplies,Binder,4,0.0,480.0,62.25,11,2023,12.97
+ORD-1463,2023-11-02,CUST-105,Home Office,North,Delhi,Technology,Headphones,2,0.0,5000.0,483.57,11,2023,9.67
+ORD-1387,2024-08-29,CUST-171,Corporate,West,Gujarat,Office Supplies,Notebook,1,0.0,80.0,12.64,8,2024,15.8
+ORD-1601,2024-07-22,CUST-169,Consumer,West,Gujarat,Furniture,Bookcase,4,0.05,26600.0,10932.64,7,2024,41.1
+ORD-1221,2023-11-29,CUST-115,Corporate,East,Odisha,Office Supplies,Notebook,6,0.0,480.0,88.09,11,2023,18.35
+ORD-1268,2024-03-23,CUST-189,Corporate,South,Tamil Nadu,Furniture,Table,2,0.0,18000.0,4270.4,3,2024,23.72
+ORD-1171,2023-03-07,CUST-090,Consumer,East,West Bengal,Furniture,Chair,7,0.05,29925.0,-319.23,3,2023,-1.07
+ORD-1781,2024-04-10,CUST-161,Home Office,South,Karnataka,Furniture,Chair,7,0.0,31500.0,7454.2,4,2024,23.66
+ORD-1776,2023-11-06,CUST-111,Home Office,East,West Bengal,Office Supplies,Pen Set,6,0.05,855.0,79.79,11,2023,9.33
+ORD-1691,2024-08-03,CUST-182,Consumer,East,West Bengal,Technology,Headphones,5,0.0,12500.0,4103.67,8,2024,32.83
+ORD-1549,2024-05-11,CUST-060,Consumer,North,Delhi,Furniture,Bookcase,1,0.0,7000.0,435.88,5,2024,6.23
+ORD-1713,2024-07-11,CUST-060,Corporate,North,Delhi,Furniture,Bookcase,4,0.05,26600.0,1487.12,7,2024,5.59
+ORD-1490,2024-11-12,CUST-186,Corporate,West,Maharashtra,Office Supplies,Binder,6,0.05,684.0,129.57,11,2024,18.94
+ORD-1553,2023-08-21,CUST-007,Consumer,West,Maharashtra,Furniture,Table,5,0.1,40500.0,9621.3,8,2023,23.76
+ORD-1773,2024-06-07,CUST-025,Home Office,West,Gujarat,Office Supplies,Pen Set,2,0.05,285.0,28.04,6,2024,9.84
+ORD-1123,2023-12-10,CUST-102,Corporate,East,Odisha,Office Supplies,Pen Set,5,0.0,750.0,110.1,12,2023,14.68
+ORD-1457,2024-04-07,CUST-151,Home Office,East,Odisha,Furniture,Bookcase,6,0.0,42000.0,2800.11,4,2024,6.67
+ORD-1180,2024-11-15,CUST-124,Home Office,North,Punjab,Technology,Printer,4,0.2,28800.0,8049.44,11,2024,27.95
+ORD-1161,2024-04-29,CUST-017,Consumer,East,West Bengal,Technology,Laptop,7,0.1,283500.0,63403.01,4,2024,22.36
+ORD-1712,2024-06-15,CUST-067,Consumer,North,Delhi,Office Supplies,Stapler,7,0.05,1662.5,75.02,6,2024,4.51
+ORD-1265,2024-02-29,CUST-130,Corporate,South,Karnataka,Office Supplies,Pen Set,2,0.0,300.0,53.72,2,2024,17.91
+ORD-1742,2024-04-08,CUST-080,Home Office,East,Odisha,Office Supplies,Notebook,5,0.0,400.0,138.38,4,2024,34.6
+ORD-1117,2023-04-13,CUST-073,Corporate,East,West Bengal,Office Supplies,Stapler,3,0.0,750.0,175.03,4,2023,23.34
+ORD-1653,2024-08-10,CUST-072,Corporate,South,Tamil Nadu,Office Supplies,Pen Set,2,0.2,240.0,23.06,8,2024,9.61
+ORD-1972,2023-12-15,CUST-081,Corporate,North,Punjab,Furniture,Chair,5,0.0,22500.0,6489.12,12,2023,28.84
+ORD-1771,2024-12-21,CUST-156,Consumer,East,Odisha,Technology,Laptop,2,0.0,90000.0,13613.41,12,2024,15.13
+ORD-1526,2024-11-05,CUST-014,Home Office,South,Tamil Nadu,Furniture,Chair,3,0.1,12150.0,-103.66,11,2024,-0.85
+ORD-1986,2024-03-26,CUST-087,Consumer,East,Odisha,Technology,Printer,2,0.0,18000.0,4101.8,3,2024,22.79
+ORD-1532,2023-04-24,CUST-148,Corporate,South,Tamil Nadu,Office Supplies,Binder,3,0.0,360.0,98.55,4,2023,27.38
+ORD-1571,2023-10-31,CUST-174,Home Office,South,Karnataka,Office Supplies,Pen Set,1,0.2,120.0,13.2,10,2023,11.0
+ORD-1568,2024-04-14,CUST-187,Corporate,North,Delhi,Furniture,Table,3,0.0,27000.0,3564.91,4,2024,13.2
+ORD-1240,2023-04-13,CUST-123,Home Office,North,Delhi,Office Supplies,Binder,4,0.1,432.0,73.13,4,2023,16.93
+ORD-1134,2024-08-03,CUST-130,Home Office,unknown,Karnataka,Technology,Phone,3,0.0,60000.0,6889.17,8,2024,11.48
+ORD-1155,2024-04-28,CUST-155,Consumer,South,Tamil Nadu,Technology,Headphones,6,0.2,12000.0,1912.95,4,2024,15.94
+ORD-1353,2023-11-14,CUST-032,Home Office,North,Delhi,Office Supplies,Binder,1,0.05,114.0,28.44,11,2023,24.95
+ORD-1139,2023-11-15,CUST-107,Consumer,South,Tamil Nadu,Technology,Headphones,3,0.1,6750.0,881.48,11,2023,13.06
+ORD-1952,2024-03-24,CUST-172,Consumer,West,Maharashtra,Technology,Laptop,2,0.1,81000.0,5781.7,3,2024,7.14
+ORD-1492,2024-07-03,CUST-081,Home Office,South,Karnataka,Furniture,Bookcase,2,0.2,11200.0,2042.93,7,2024,18.24
+ORD-1060,2024-11-04,CUST-053,Consumer,North,Delhi,Technology,Headphones,6,0.05,14250.0,337.46,11,2024,2.37
+ORD-1352,2023-08-07,CUST-119,Home Office,East,Odisha,Technology,Printer,7,0.1,56700.0,10791.1,8,2023,19.03
+ORD-1860,2024-12-07,CUST-195,Corporate,West,Maharashtra,Office Supplies,Stapler,3,0.05,712.5,59.27,12,2024,8.32
+ORD-1165,2024-08-17,CUST-187,Corporate,North,Punjab,Furniture,Sofa,6,0.2,86400.0,3551.41,8,2024,4.11
+ORD-1716,2024-01-13,CUST-118,Corporate,South,Tamil Nadu,Furniture,Bookcase,4,0.2,22400.0,3177.14,1,2024,14.18
+ORD-1733,2024-07-19,CUST-034,Consumer,West,Gujarat,Office Supplies,Binder,5,0.0,600.0,112.44,7,2024,18.74
+ORD-1300,2023-09-23,CUST-091,Consumer,North,Punjab,Furniture,Chair,1,0.0,4500.0,938.73,9,2023,20.86
+ORD-1214,2024-06-21,CUST-026,Corporate,East,Odisha,Technology,Printer,1,0.2,7200.0,2021.69,6,2024,28.08
+ORD-1407,2023-04-16,CUST-124,Consumer,West,Maharashtra,Furniture,Bookcase,1,0.2,5600.0,536.41,4,2023,9.58
+ORD-1988,2023-06-29,CUST-187,Corporate,South,Tamil Nadu,Furniture,Chair,2,0.1,8100.0,1652.85,6,2023,20.41
+ORD-1297,2023-11-17,CUST-103,Corporate,South,Karnataka,Furniture,Chair,6,0.1,24300.0,5089.5,11,2023,20.94
+ORD-1394,2024-06-09,CUST-046,Corporate,South,Tamil Nadu,Technology,Printer,7,0.0,63000.0,-167.83,6,2024,-0.27
+ORD-1131,2024-02-09,CUST-014,Home Office,East,Odisha,Office Supplies,Stapler,3,0.0,750.0,113.05,2,2024,15.07
+ORD-1314,2023-06-28,CUST-143,Home Office,North,Delhi,Technology,Phone,3,0.0,60000.0,16105.22,6,2023,26.84
+ORD-1921,2024-02-22,CUST-067,Corporate,North,Delhi,Office Supplies,Binder,7,0.0,840.0,23.09,2,2024,2.75
+ORD-1829,2023-01-22,CUST-199,Consumer,East,West Bengal,Office Supplies,Binder,5,0.0,600.0,55.15,1,2023,9.19
+ORD-1739,2024-10-17,CUST-039,Home Office,North,Delhi,Office Supplies,Stapler,1,0.1,225.0,60.28,10,2024,26.79
+ORD-1416,2024-12-08,CUST-173,Consumer,West,Gujarat,Furniture,Table,5,0.2,36000.0,5724.14,12,2024,15.9
+ORD-1832,2023-11-27,CUST-057,Corporate,unknown,Gujarat,Office Supplies,Stapler,3,0.0,750.0,163.02,11,2023,21.74
+ORD-1038,2023-07-22,CUST-171,Consumer,North,Punjab,Technology,Headphones,5,0.1,11250.0,1061.27,7,2023,9.43
+ORD-1470,2024-06-22,CUST-167,Consumer,North,Delhi,Technology,Headphones,4,0.0,10000.0,1488.46,6,2024,14.88
+ORD-1249,2023-01-31,CUST-053,Home Office,North,Delhi,Technology,Printer,7,0.05,59850.0,9960.22,1,2023,16.64
+ORD-1512,2024-09-05,CUST-002,Corporate,North,Punjab,Office Supplies,Stapler,1,0.2,200.0,24.9,9,2024,12.45
+ORD-1402,2023-08-22,CUST-155,Corporate,South,Karnataka,Technology,Laptop,3,0.05,128250.0,33272.37,8,2023,25.94
+ORD-1053,2023-12-07,CUST-057,Home Office,North,Punjab,Furniture,Bookcase,5,0.2,28000.0,5372.76,12,2023,19.19
+ORD-1194,2024-12-01,CUST-147,Corporate,East,West Bengal,Furniture,Table,7,0.0,59850.0,13362.77,12,2024,22.33
+ORD-1136,2024-03-16,CUST-036,Corporate,East,Odisha,Furniture,Table,6,0.0,54000.0,6081.59,3,2024,11.26
+ORD-1519,2024-03-09,CUST-076,Home Office,North,Punjab,Office Supplies,Pen Set,2,0.0,300.0,50.55,3,2024,16.85
+ORD-1669,2023-04-07,CUST-056,Corporate,North,Delhi,Technology,Headphones,2,0.2,4000.0,284.91,4,2023,7.12
+ORD-1678,2024-01-17,CUST-006,Corporate,East,Odisha,Office Supplies,Binder,5,0.2,480.0,69.1,1,2024,14.4
+ORD-1281,2023-12-22,CUST-029,Home Office,East,West Bengal,Office Supplies,Stapler,7,0.0,1750.0,197.02,12,2023,11.26
+ORD-1035,2023-02-16,CUST-177,Corporate,East,West Bengal,Office Supplies,Pen Set,3,0.05,427.5,86.05,2,2023,20.13
+ORD-1928,2023-11-02,CUST-050,Consumer,South,Tamil Nadu,Office Supplies,Stapler,4,0.0,1000.0,344.69,11,2023,34.47
+ORD-1768,2023-04-13,CUST-078,Corporate,West,Gujarat,Technology,Headphones,7,0.2,14000.0,1735.79,4,2023,12.4
+ORD-1874,2024-05-24,CUST-198,Corporate,East,Odisha,Office Supplies,Notebook,2,0.05,152.0,3.54,5,2024,2.33
+ORD-1378,2023-10-05,CUST-094,Home Office,East,Odisha,Office Supplies,Stapler,2,0.1,450.0,78.99,10,2023,17.55
+ORD-1916,2024-02-01,CUST-116,Corporate,North,Delhi,Technology,Printer,7,0.0,63000.0,14288.1,2,2024,22.68
+ORD-1576,2024-11-06,CUST-146,Consumer,North,Punjab,Office Supplies,Pen Set,7,0.2,840.0,229.21,11,2024,27.29
+ORD-1621,2023-12-15,CUST-081,Home Office,North,Delhi,Office Supplies,Stapler,6,0.05,1425.0,117.28,12,2023,8.23
+ORD-1052,2023-09-23,CUST-096,Consumer,West,Maharashtra,Technology,Laptop,2,0.0,90000.0,-8070.5,9,2023,-8.97
+ORD-1377,2024-06-29,CUST-101,Consumer,North,Punjab,Furniture,Bookcase,7,0.0,49000.0,4752.39,6,2024,9.7
+ORD-1886,2023-02-08,CUST-017,Corporate,West,Maharashtra,Office Supplies,Pen Set,4,0.2,480.0,-29.65,2,2023,-6.18
+ORD-1692,2024-11-10,CUST-120,Corporate,East,West Bengal,Office Supplies,Pen Set,7,0.1,945.0,140.38,11,2024,14.86
+ORD-1969,2023-01-27,CUST-119,Corporate,East,West Bengal,Furniture,Table,4,0.2,28800.0,4387.26,1,2023,15.23
+ORD-1246,2024-07-06,CUST-082,Consumer,South,Tamil Nadu,Office Supplies,Stapler,6,0.0,1500.0,-42.79,7,2024,-2.85
+ORD-1950,2023-03-10,CUST-149,Consumer,West,Gujarat,Office Supplies,Notebook,7,0.05,532.0,137.99,3,2023,25.94
+ORD-1425,2023-05-26,CUST-050,Home Office,North,Delhi,Technology,Headphones,2,0.05,4750.0,1576.79,5,2023,33.2
+ORD-1597,2024-07-23,CUST-078,Consumer,South,Tamil Nadu,Office Supplies,Notebook,7,0.05,532.0,174.18,7,2024,32.74
+ORD-1028,2024-02-03,CUST-053,Home Office,North,Punjab,Furniture,Bookcase,4,0.0,28000.0,5943.55,2,2024,21.23
+ORD-1656,2024-07-13,CUST-004,Consumer,East,Odisha,Furniture,Bookcase,4,0.1,25200.0,6556.63,7,2024,26.02
+ORD-1244,2024-04-03,CUST-072,Home Office,West,Maharashtra,Technology,Laptop,3,0.2,108000.0,12508.85,4,2024,11.58
+ORD-1103,2023-01-06,CUST-035,Consumer,South,Tamil Nadu,Technology,Headphones,4,0.05,9500.0,1159.62,1,2023,12.21
+ORD-1276,2023-12-07,CUST-197,Corporate,West,Maharashtra,Office Supplies,Binder,1,0.0,120.0,22.07,12,2023,18.39
+ORD-1393,2024-03-13,CUST-033,Corporate,South,Karnataka,Furniture,Table,6,0.0,54000.0,17066.95,3,2024,31.61
+ORD-1110,2023-07-22,CUST-154,Home Office,East,West Bengal,Technology,Printer,7,0.05,59850.0,-4366.32,7,2023,-7.3
+ORD-1159,2024-07-26,CUST-021,Home Office,East,Odisha,Office Supplies,Notebook,7,0.2,448.0,115.6,7,2024,25.8
+ORD-1112,2024-02-10,CUST-141,Home Office,South,Tamil Nadu,Office Supplies,Notebook,4,0.0,320.0,37.33,2,2024,11.67
+ORD-1573,2023-02-05,CUST-097,Home Office,South,Tamil Nadu,Office Supplies,Notebook,1,0.0,80.0,44.05,2,2023,55.06
+ORD-1556,2024-06-21,CUST-192,Corporate,North,Delhi,Office Supplies,Notebook,1,0.2,64.0,12.18,6,2024,19.03
+ORD-1329,2024-02-10,CUST-196,Corporate,East,Odisha,Technology,Headphones,3,0.0,7500.0,1540.25,2,2024,20.54
+ORD-1775,2024-11-25,CUST-156,Home Office,South,Karnataka,Office Supplies,Binder,6,0.1,648.0,65.36,11,2024,10.09
+ORD-1889,2023-07-17,CUST-138,Home Office,East,Odisha,Office Supplies,Stapler,6,0.0,1500.0,233.79,7,2023,15.59
+ORD-1167,2023-05-02,CUST-187,Corporate,East,Odisha,Furniture,Bookcase,6,0.1,37800.0,12396.44,5,2023,32.79
+ORD-1846,2023-04-25,CUST-127,Home Office,West,Gujarat,Furniture,Table,2,0.05,17100.0,1835.62,4,2023,10.73
+ORD-1154,2023-11-14,CUST-088,Corporate,North,Punjab,Technology,Printer,5,0.0,45000.0,5232.73,11,2023,11.63
+ORD-1959,2023-10-28,CUST-071,Consumer,South,Karnataka,Technology,Phone,6,0.1,108000.0,4254.01,10,2023,3.94
+ORD-1024,2024-07-24,CUST-045,Corporate,North,Delhi,Furniture,Sofa,1,0.1,16200.0,5393.53,7,2024,33.29
+ORD-1866,2024-08-21,CUST-138,Corporate,West,Maharashtra,Furniture,Chair,1,0.2,3600.0,999.33,8,2024,27.76
+ORD-1443,2023-12-23,CUST-104,Home Office,West,Gujarat,Furniture,Bookcase,3,0.0,21000.0,2773.14,12,2023,13.21
+ORD-1150,2024-09-16,CUST-089,Consumer,North,Punjab,Technology,Printer,5,0.05,42750.0,11709.53,9,2024,27.39
+ORD-1094,2024-10-17,CUST-168,Home Office,West,Maharashtra,Furniture,Table,4,0.05,34200.0,7534.29,10,2024,22.03
+ORD-1217,2023-03-12,CUST-148,Consumer,North,Punjab,Technology,Phone,1,0.1,18000.0,1666.2,3,2023,9.26
+ORD-1381,2024-11-14,CUST-028,Consumer,South,Karnataka,Technology,Phone,3,0.0,60000.0,8007.93,11,2024,13.35
+ORD-1023,2024-11-07,CUST-172,Corporate,East,Odisha,Furniture,Chair,7,0.05,29925.0,8304.55,11,2024,27.75
+ORD-1292,2024-11-27,CUST-027,Home Office,East,Odisha,Office Supplies,Notebook,4,0.0,320.0,35.21,11,2024,11.0
+ORD-1173,2024-06-11,CUST-199,Home Office,South,Tamil Nadu,Furniture,Sofa,2,0.0,36000.0,9322.08,6,2024,25.89
+ORD-1100,2024-08-30,CUST-061,Corporate,East,West Bengal,Furniture,Sofa,3,0.1,48600.0,15190.49,8,2024,31.26
+ORD-1025,2024-04-15,CUST-012,Corporate,South,Tamil Nadu,Office Supplies,Binder,4,0.2,384.0,89.77,4,2024,23.38
+ORD-1763,2024-11-14,CUST-179,Consumer,West,Maharashtra,Furniture,Chair,6,0.05,25650.0,6589.34,11,2024,25.69
+ORD-1642,2024-09-15,CUST-021,Home Office,West,Gujarat,Technology,Printer,5,0.0,45000.0,17089.79,9,2024,37.98
+ORD-1489,2024-03-18,CUST-030,Home Office,East,West Bengal,Technology,Laptop,3,0.0,135000.0,13960.72,3,2024,10.34
+ORD-1596,2024-02-27,CUST-150,Home Office,South,Karnataka,Office Supplies,Stapler,5,0.2,1000.0,47.3,2,2024,4.73
+ORD-1354,2024-12-08,CUST-141,Home Office,South,Karnataka,Technology,Headphones,1,0.0,2500.0,63.93,12,2024,2.56
+ORD-1817,2023-03-19,CUST-015,Home Office,North,Punjab,Technology,Laptop,2,0.2,72000.0,19436.12,3,2023,26.99
+ORD-1242,2023-03-11,CUST-184,Home Office,West,Gujarat,Furniture,Bookcase,7,0.0,49000.0,-3.94,3,2023,-0.01
+ORD-1049,2024-07-22,CUST-067,Consumer,East,West Bengal,Furniture,Table,7,0.05,59850.0,4144.83,7,2024,6.93
+ORD-1073,2023-04-05,CUST-187,Home Office,North,Punjab,Office Supplies,Pen Set,7,0.0,1050.0,409.97,4,2023,39.04
+ORD-1559,2024-09-13,CUST-107,Corporate,South,Karnataka,Office Supplies,Stapler,1,0.2,200.0,24.37,9,2024,12.18
+ORD-1974,2023-04-18,CUST-075,Home Office,East,West Bengal,Furniture,Table,3,0.0,27000.0,8451.05,4,2023,31.3
+ORD-1118,2023-06-29,CUST-074,Consumer,East,Odisha,Furniture,Chair,3,0.2,10800.0,1108.9,6,2023,10.27
+ORD-1114,2024-01-05,CUST-162,Consumer,East,West Bengal,Technology,Headphones,4,0.1,9000.0,796.69,1,2024,8.85
+ORD-1520,2023-09-19,CUST-153,Home Office,North,Delhi,Office Supplies,Stapler,4,0.1,900.0,65.9,9,2023,7.32
+ORD-1005,2024-09-18,CUST-029,Home Office,South,Tamil Nadu,Furniture,Sofa,3,0.0,54000.0,12733.72,9,2024,23.58
+ORD-1475,2024-07-26,CUST-039,Consumer,South,Tamil Nadu,Office Supplies,Pen Set,3,0.0,450.0,81.5,7,2024,18.11
+ORD-1663,2023-05-28,CUST-058,Consumer,South,Tamil Nadu,Office Supplies,Notebook,6,0.05,456.0,-9.12,5,2023,-2.0
+ORD-1593,2024-12-16,CUST-017,Home Office,South,Tamil Nadu,Furniture,Sofa,2,0.05,34200.0,10472.81,12,2024,30.62
+ORD-1069,2023-12-09,CUST-069,Corporate,West,Gujarat,Technology,Laptop,7,0.2,252000.0,10218.72,12,2023,4.06
+ORD-1014,2024-06-07,CUST-087,Home Office,East,Odisha,Furniture,Table,5,0.2,36000.0,6103.75,6,2024,16.95
+ORD-1624,2024-03-17,CUST-101,Corporate,East,Odisha,Furniture,Chair,1,0.0,4500.0,1310.5,3,2024,29.12
+ORD-1369,2024-07-17,CUST-178,Home Office,South,Tamil Nadu,Technology,Phone,7,0.05,133000.0,24153.48,7,2024,18.16
+ORD-1078,2024-02-17,CUST-012,Corporate,South,Karnataka,Office Supplies,Notebook,7,0.0,560.0,73.45,2,2024,13.12
+ORD-1479,2023-03-21,CUST-123,Home Office,East,West Bengal,Furniture,Sofa,3,0.2,43200.0,4330.78,3,2023,10.02
+ORD-1732,2024-11-03,CUST-070,Corporate,North,Punjab,Technology,Printer,6,0.0,54000.0,4417.61,11,2024,8.18
+ORD-1054,2023-12-30,CUST-059,Consumer,South,Karnataka,Office Supplies,Stapler,7,0.1,1575.0,114.7,12,2023,7.28
+ORD-1467,2024-03-11,CUST-144,Corporate,West,Maharashtra,Office Supplies,Stapler,5,0.0,1250.0,239.17,3,2024,19.13
+ORD-1266,2023-11-23,CUST-196,Consumer,East,Odisha,Office Supplies,Binder,5,0.0,600.0,84.43,11,2023,14.07
+ORD-1795,2023-08-04,CUST-155,Corporate,North,Punjab,Furniture,Sofa,4,0.0,72000.0,8947.48,8,2023,12.43
+ORD-1847,2023-02-07,CUST-097,Home Office,West,Gujarat,Office Supplies,Pen Set,3,0.05,427.5,74.78,2,2023,17.49
+ORD-1514,2024-12-01,CUST-093,Corporate,West,Gujarat,Furniture,Sofa,4,0.0,72000.0,8063.6,12,2024,11.2
+ORD-1537,2023-03-26,CUST-163,Home Office,East,Odisha,Office Supplies,Pen Set,4,0.1,540.0,123.96,3,2023,22.96
+ORD-1882,2023-11-24,CUST-197,Corporate,East,West Bengal,Office Supplies,Stapler,6,0.0,1500.0,608.56,11,2023,40.57
+ORD-1503,2024-09-25,CUST-076,Consumer,North,Punjab,Technology,Printer,5,0.0,45000.0,9743.95,9,2024,21.65
+ORD-1612,2024-07-26,CUST-085,Consumer,South,Karnataka,Technology,Phone,5,0.0,100000.0,35289.75,7,2024,35.29
+ORD-1166,2023-08-23,CUST-102,Corporate,East,West Bengal,Technology,Printer,1,0.0,9000.0,2283.41,8,2023,25.37
+ORD-1740,2024-08-19,CUST-100,Consumer,South,Karnataka,Furniture,Bookcase,3,0.0,21000.0,6325.36,8,2024,30.12
+ORD-1331,2023-09-28,CUST-152,Consumer,North,Delhi,Furniture,Sofa,7,0.2,100800.0,27488.64,9,2023,27.27
+ORD-1728,2023-12-23,CUST-064,Corporate,East,Odisha,Furniture,Chair,5,0.0,22500.0,1824.91,12,2023,8.11
+ORD-1247,2023-10-31,CUST-186,Corporate,South,Tamil Nadu,Office Supplies,Binder,1,0.1,108.0,-10.7,10,2023,-9.91
+ORD-1373,2023-09-30,CUST-115,Consumer,North,Delhi,Technology,Phone,6,0.2,96000.0,34213.68,9,2023,35.64
+ORD-1638,2024-08-01,CUST-177,Home Office,East,West Bengal,Furniture,Chair,2,0.1,8100.0,847.99,8,2024,10.47
+ORD-1472,2023-11-12,CUST-177,Consumer,North,Delhi,Technology,Phone,4,0.0,80000.0,8930.15,11,2023,11.16
+ORD-1499,2023-11-07,CUST-052,Consumer,East,West Bengal,Office Supplies,Stapler,3,0.0,750.0,137.2,11,2023,18.29
+ORD-1644,2024-07-16,CUST-159,Corporate,North,Delhi,Technology,Printer,4,0.1,32400.0,6830.03,7,2024,21.08
+ORD-1614,2024-05-15,CUST-023,Corporate,South,Tamil Nadu,Office Supplies,Stapler,7,0.2,1400.0,279.14,5,2024,19.94
+ORD-1563,2023-05-13,CUST-139,Consumer,East,West Bengal,Technology,Headphones,1,0.2,2000.0,271.11,5,2023,13.56
+ORD-1813,2023-07-27,CUST-195,Home Office,North,Punjab,Furniture,Bookcase,6,0.0,42000.0,16096.58,7,2023,38.33
+ORD-1307,2024-02-09,CUST-192,Corporate,West,Gujarat,Furniture,Sofa,6,0.0,108000.0,10810.22,2,2024,10.01
+ORD-1801,2023-08-09,CUST-123,Corporate,West,Gujarat,Technology,Laptop,5,0.1,202500.0,2660.55,8,2023,1.31
+ORD-1608,2024-12-06,CUST-108,Home Office,South,Karnataka,Furniture,Bookcase,1,0.1,6300.0,144.32,12,2024,2.29
+ORD-1566,2023-06-16,CUST-028,Corporate,East,Odisha,Furniture,Chair,4,0.1,16200.0,1324.84,6,2023,8.18
+ORD-1501,2024-04-20,CUST-071,Home Office,North,Delhi,Technology,Printer,5,0.0,45000.0,6509.33,4,2024,14.47
+ORD-1234,2023-12-26,CUST-033,Home Office,North,Punjab,Furniture,Sofa,7,0.1,113400.0,27257.49,12,2023,24.04
+ORD-1726,2024-06-10,CUST-095,Corporate,West,Maharashtra,Furniture,Bookcase,1,0.05,6650.0,1887.92,6,2024,28.39
+ORD-1430,2023-03-03,CUST-114,Consumer,South,Tamil Nadu,Technology,Laptop,5,0.0,225000.0,46027.08,3,2023,20.46
+ORD-1890,2023-03-14,CUST-154,Home Office,South,Karnataka,Technology,Headphones,1,0.05,2375.0,9.72,3,2023,0.41
+ORD-1191,2024-04-05,CUST-162,Consumer,North,Punjab,Office Supplies,Notebook,2,0.1,144.0,40.17,4,2024,27.9
+ORD-1151,2023-07-25,CUST-184,Home Office,North,Delhi,Furniture,Table,4,0.2,28800.0,7117.77,7,2023,24.71
+ORD-1435,2023-04-01,CUST-035,Consumer,West,Gujarat,Office Supplies,Notebook,3,0.0,240.0,19.68,4,2023,8.2
+ORD-1256,2024-05-09,CUST-151,Consumer,West,Maharashtra,Office Supplies,Binder,7,0.1,756.0,91.47,5,2024,12.1
+ORD-1777,2023-03-28,CUST-130,Consumer,South,Tamil Nadu,Office Supplies,Notebook,6,0.0,480.0,206.88,3,2023,43.1
+ORD-1999,2024-01-10,CUST-091,Home Office,East,West Bengal,Office Supplies,Stapler,3,0.0,750.0,77.48,1,2024,10.33
+ORD-1786,2023-01-24,CUST-135,Corporate,South,Tamil Nadu,Technology,Headphones,2,0.0,5000.0,953.36,1,2023,19.07
+ORD-1541,2023-02-10,CUST-007,Home Office,North,Delhi,Technology,Phone,6,0.0,120000.0,33632.85,2,2023,28.03
+ORD-1569,2024-02-21,CUST-056,Corporate,North,Punjab,Office Supplies,Stapler,7,0.0,1750.0,159.49,2,2024,9.11
+ORD-1582,2023-03-19,CUST-175,Home Office,South,Karnataka,Furniture,Table,3,0.05,25650.0,1794.32,3,2023,7.0
+ORD-1383,2023-06-25,CUST-170,Corporate,West,Gujarat,Furniture,Sofa,1,0.0,18000.0,1730.11,6,2023,9.61
+ORD-1145,2024-09-14,CUST-179,Consumer,South,Karnataka,Office Supplies,Stapler,3,0.1,675.0,241.78,9,2024,35.82
+ORD-1812,2024-05-14,CUST-086,Home Office,East,Odisha,Technology,Printer,4,0.1,32400.0,5669.02,5,2024,17.5
+ORD-1895,2024-03-22,CUST-128,Consumer,South,Karnataka,Office Supplies,Stapler,4,0.1,900.0,191.38,3,2024,21.26
+ORD-1533,2023-07-27,CUST-164,Corporate,North,Punjab,Technology,Laptop,5,0.2,180000.0,35246.85,7,2023,19.58
+ORD-1215,2023-07-18,CUST-199,Corporate,West,Gujarat,Technology,Phone,5,0.2,80000.0,-2695.09,7,2023,-3.37
+ORD-1816,2023-02-01,CUST-179,Consumer,South,Tamil Nadu,Office Supplies,Stapler,6,0.0,1500.0,465.41,2,2023,31.03
+ORD-1910,2024-07-16,CUST-022,Corporate,East,West Bengal,Office Supplies,Binder,3,0.05,342.0,64.85,7,2024,18.96
+ORD-1672,2024-04-09,CUST-105,Home Office,North,Delhi,Furniture,Sofa,6,0.05,102600.0,37535.91,4,2024,36.58
+ORD-1196,2023-09-08,CUST-144,Corporate,South,Karnataka,Office Supplies,Binder,6,0.0,720.0,173.66,9,2023,24.12
+ORD-1852,2024-12-04,CUST-143,Home Office,South,Tamil Nadu,Furniture,Bookcase,7,0.2,39200.0,3353.94,12,2024,8.56
+ORD-1495,2023-10-29,CUST-121,Home Office,West,Gujarat,Office Supplies,Pen Set,7,0.0,1050.0,28.61,10,2023,2.72
+ORD-1591,2024-10-20,CUST-159,Corporate,West,Gujarat,Office Supplies,Notebook,6,0.05,456.0,24.78,10,2024,5.43
+ORD-1017,2023-04-04,CUST-029,Corporate,East,Odisha,Furniture,Chair,5,0.05,21375.0,4329.65,4,2023,20.26
+ORD-1834,2024-09-15,CUST-034,Corporate,South,Karnataka,Technology,Printer,3,0.1,24300.0,4807.69,9,2024,19.78
+ORD-1027,2024-08-23,CUST-182,Consumer,East,Odisha,Furniture,Sofa,3,0.2,43200.0,9028.69,8,2024,20.9
+ORD-1277,2024-07-25,CUST-179,Consumer,West,Maharashtra,Furniture,Chair,1,0.0,4500.0,934.89,7,2024,20.78
+ORD-1631,2023-08-28,CUST-185,Home Office,West,Gujarat,Technology,Phone,6,0.0,120000.0,10084.93,8,2023,8.4
+ORD-1395,2024-09-30,CUST-115,Consumer,West,Maharashtra,Furniture,Sofa,6,0.1,97200.0,6321.75,9,2024,6.5
+ORD-1228,2024-02-04,CUST-024,Consumer,East,Odisha,Furniture,Sofa,5,0.0,90000.0,13474.36,2,2024,14.97
+ORD-1320,2023-08-23,CUST-157,Consumer,East,West Bengal,Office Supplies,Notebook,1,0.05,76.0,10.86,8,2023,14.29
+ORD-1147,2023-06-20,CUST-069,Consumer,South,Karnataka,Furniture,Table,2,0.0,18000.0,8168.33,6,2023,45.38
+ORD-1729,2024-04-25,CUST-080,Corporate,North,Delhi,Furniture,Bookcase,5,0.0,35000.0,5639.27,4,2024,16.11
+ORD-1960,2023-04-23,CUST-154,Corporate,East,West Bengal,Office Supplies,Pen Set,7,0.1,945.0,63.99,4,2023,6.77
+ORD-1494,2023-07-31,CUST-150,Consumer,East,West Bengal,Technology,Phone,6,0.1,108000.0,43169.17,7,2023,39.97
+ORD-1598,2024-04-03,CUST-086,Home Office,West,Gujarat,Office Supplies,Stapler,1,0.05,237.5,122.96,4,2024,51.77
+ORD-1449,2023-07-29,CUST-114,Corporate,West,Gujarat,Office Supplies,Binder,4,0.1,432.0,103.43,7,2023,23.94
+ORD-1721,2024-11-10,CUST-009,Corporate,unknown,Karnataka,Office Supplies,Binder,3,0.2,288.0,35.89,11,2024,12.46
+ORD-1106,2024-07-23,CUST-166,Consumer,East,West Bengal,Office Supplies,Notebook,4,0.05,304.0,54.83,7,2024,18.04
+ORD-1350,2024-01-25,CUST-004,Consumer,West,Gujarat,Technology,Phone,4,0.2,64000.0,21440.15,1,2024,33.5
+ORD-1523,2024-08-25,CUST-108,Consumer,East,Odisha,Office Supplies,Stapler,1,0.05,237.5,29.23,8,2024,12.31
+ORD-1650,2023-12-24,CUST-059,Corporate,West,Gujarat,Office Supplies,Binder,2,0.0,240.0,59.37,12,2023,24.74
+ORD-1389,2023-04-22,CUST-021,Consumer,West,Gujarat,Technology,Headphones,1,0.1,2250.0,-39.82,4,2023,-1.77
+ORD-1448,2024-01-16,CUST-114,Home Office,North,Punjab,Technology,Laptop,4,0.2,144000.0,8086.48,1,2024,5.62
+ORD-1093,2023-10-10,CUST-184,Corporate,South,Karnataka,Technology,Laptop,2,0.2,72000.0,20618.44,10,2023,28.64
+ORD-1259,2024-03-04,CUST-151,Corporate,East,Odisha,Furniture,Bookcase,4,0.1,25200.0,1339.16,3,2024,5.31
+ORD-1554,2024-12-19,CUST-028,Corporate,North,Delhi,Furniture,Chair,6,0.1,24300.0,4194.62,12,2024,17.26
+ORD-1898,2023-02-21,CUST-099,Corporate,North,Delhi,Technology,Laptop,6,0.05,256500.0,65088.74,2,2023,25.38
+ORD-1170,2023-03-19,CUST-159,Corporate,East,West Bengal,Office Supplies,Stapler,5,0.1,1125.0,199.5,3,2023,17.73
+ORD-1254,2024-04-27,CUST-157,Consumer,North,Delhi,Technology,Phone,1,0.0,20000.0,1632.59,4,2024,8.16
+ORD-1602,2024-06-23,CUST-187,Consumer,West,Gujarat,Office Supplies,Notebook,7,0.05,532.0,166.37,6,2024,31.27
+ORD-1252,2023-05-18,CUST-008,Corporate,East,Odisha,Furniture,Chair,6,0.05,25650.0,4842.54,5,2023,18.88
+ORD-1306,2023-08-09,CUST-101,Corporate,North,Punjab,Technology,Headphones,7,0.0,17500.0,3788.06,8,2023,21.65
+ORD-1547,2024-03-07,CUST-083,Consumer,South,Karnataka,Office Supplies,Binder,1,0.2,96.0,27.22,3,2024,28.35
+ORD-1859,2024-08-07,CUST-095,Corporate,West,Gujarat,Technology,Headphones,3,0.1,6750.0,1432.37,8,2024,21.22
+ORD-1963,2023-06-08,CUST-142,Corporate,West,Maharashtra,Furniture,Table,5,0.0,45000.0,14561.09,6,2023,32.36
+ORD-1428,2023-01-19,CUST-079,Home Office,North,Punjab,Furniture,Sofa,2,0.05,34200.0,9082.14,1,2023,26.56
+ORD-1186,2023-05-02,CUST-072,Consumer,West,Gujarat,Office Supplies,Binder,1,0.0,120.0,16.93,5,2023,14.11
+ORD-1269,2024-03-07,CUST-146,Consumer,South,Tamil Nadu,Furniture,Sofa,3,0.2,43200.0,-2456.35,3,2024,-5.69
+ORD-1630,2024-06-21,CUST-022,Corporate,South,Karnataka,Furniture,Table,3,0.0,27000.0,4660.2,6,2024,17.26
+ORD-1162,2023-10-26,CUST-091,Consumer,North,Punjab,Office Supplies,Stapler,2,0.05,475.0,130.86,10,2023,27.55
+ORD-1413,2023-04-07,CUST-186,Consumer,North,Punjab,Office Supplies,Stapler,2,0.1,450.0,177.24,4,2023,39.39
+ORD-1782,2023-03-31,CUST-077,Consumer,East,Odisha,Furniture,Table,1,0.05,8550.0,3107.3,3,2023,36.34
+ORD-1797,2023-12-01,CUST-172,Home Office,North,Delhi,Office Supplies,Binder,6,0.05,684.0,143.21,12,2023,20.94
+ORD-1098,2024-04-09,CUST-176,Consumer,West,Maharashtra,Furniture,Bookcase,4,0.2,22400.0,3344.32,4,2024,14.93
+ORD-1006,2023-03-04,CUST-152,Corporate,West,Gujarat,Technology,Phone,3,0.0,60000.0,16493.8,3,2023,27.49
+ORD-1809,2024-12-28,CUST-166,Consumer,West,Gujarat,Office Supplies,Stapler,4,0.0,1000.0,178.56,12,2024,17.86
+ORD-1861,2024-11-08,CUST-009,Home Office,West,Gujarat,Technology,Printer,2,0.05,17100.0,1266.36,11,2024,7.41
+ORD-1611,2023-12-04,CUST-047,Consumer,North,Delhi,Office Supplies,Binder,2,0.1,216.0,32.73,12,2023,15.15
+ORD-1229,2023-05-10,CUST-081,Home Office,North,Punjab,Furniture,Chair,4,0.05,17100.0,9058.03,5,2023,52.97
+ORD-1264,2024-12-23,CUST-103,Corporate,South,Karnataka,Office Supplies,Binder,4,0.05,456.0,142.77,12,2024,31.31
+ORD-1368,2023-01-17,CUST-095,Corporate,West,Maharashtra,Furniture,Chair,4,0.2,14400.0,-2181.9,1,2023,-15.15
+ORD-1828,2024-09-22,CUST-188,Corporate,South,Tamil Nadu,Furniture,Chair,1,0.05,4275.0,1175.54,9,2024,27.5
+ORD-1871,2023-05-28,CUST-153,Corporate,West,Maharashtra,Furniture,Table,5,0.0,45000.0,16774.35,5,2023,37.28
+ORD-1854,2023-07-30,CUST-090,Corporate,East,West Bengal,Technology,Printer,2,0.0,18000.0,1210.54,7,2023,6.73
+ORD-1906,2023-10-28,CUST-196,Corporate,East,West Bengal,Office Supplies,Binder,1,0.05,114.0,24.03,10,2023,21.08
+ORD-1403,2024-12-10,CUST-190,Home Office,South,Karnataka,Furniture,Sofa,7,0.2,100800.0,25210.11,12,2024,25.01
+ORD-1738,2024-06-22,CUST-053,Consumer,West,Gujarat,Technology,Laptop,2,0.0,90000.0,28370.99,6,2024,31.52
+ORD-1610,2024-08-31,CUST-004,Corporate,South,Tamil Nadu,Technology,Laptop,3,0.2,108000.0,30771.48,8,2024,28.49
+ORD-1189,2023-08-09,CUST-082,Corporate,North,Delhi,Office Supplies,Binder,1,0.0,120.0,53.7,8,2023,44.75
+ORD-1332,2023-08-15,CUST-010,Consumer,North,Delhi,Technology,Headphones,4,0.0,10000.0,1766.38,8,2023,17.66
+ORD-1303,2024-10-16,CUST-002,Corporate,South,Karnataka,Office Supplies,Pen Set,3,0.0,450.0,50.74,10,2024,11.28
+ORD-1260,2024-08-02,CUST-167,Home Office,South,Karnataka,Furniture,Table,7,0.0,63000.0,4401.78,8,2024,6.99
+ORD-1144,2024-12-25,CUST-069,Consumer,West,Maharashtra,Furniture,Table,6,0.2,43200.0,11664.63,12,2024,27.0
+ORD-1627,2023-09-26,CUST-153,Consumer,West,Maharashtra,Technology,Phone,7,0.0,140000.0,39494.46,9,2023,28.21
+ORD-1698,2023-02-06,CUST-200,Consumer,South,Karnataka,Technology,Laptop,2,0.1,81000.0,16731.77,2,2023,20.66
+ORD-1283,2023-12-25,CUST-097,Home Office,East,West Bengal,Technology,Phone,6,0.0,120000.0,42078.33,12,2023,35.07
+ORD-1862,2023-03-29,CUST-081,Consumer,North,Delhi,Office Supplies,Stapler,5,0.2,1000.0,214.49,3,2023,21.45
+ORD-1011,2024-12-13,CUST-054,Consumer,West,Gujarat,Furniture,Table,6,0.05,51300.0,4391.9,12,2024,8.56
+ORD-1822,2023-04-10,CUST-014,Home Office,East,Odisha,Office Supplies,Notebook,7,0.0,560.0,197.0,4,2023,35.18
+ORD-1594,2023-08-23,CUST-062,Home Office,East,Odisha,Technology,Headphones,2,0.1,4500.0,611.99,8,2023,13.6
+ORD-1693,2024-11-21,CUST-087,Consumer,North,Delhi,Furniture,Bookcase,1,0.0,7000.0,372.67,11,2024,5.32
+ORD-1531,2023-05-01,CUST-035,Home Office,West,Gujarat,Office Supplies,Pen Set,3,0.2,360.0,36.44,5,2023,10.12
+ORD-1469,2024-11-12,CUST-196,Corporate,South,Tamil Nadu,Furniture,Sofa,7,0.05,119700.0,31250.41,11,2024,26.11
+ORD-1127,2024-07-12,CUST-079,Consumer,East,Odisha,Furniture,Sofa,7,0.2,100800.0,33911.92,7,2024,33.64
+ORD-1743,2023-07-17,CUST-126,Corporate,East,West Bengal,Technology,Laptop,4,0.0,180000.0,107007.4,7,2023,59.45
+ORD-1057,2023-04-23,CUST-148,Corporate,East,West Bengal,Office Supplies,Notebook,6,0.0,480.0,106.03,4,2023,22.09
+ORD-1033,2024-02-09,CUST-013,Corporate,East,West Bengal,Technology,Phone,1,0.05,19000.0,-525.93,2,2024,-2.77
+ORD-1237,2023-11-12,CUST-068,Home Office,South,Tamil Nadu,Technology,Headphones,2,0.05,4750.0,-38.29,11,2023,-0.81
+ORD-1931,2024-05-25,CUST-049,Home Office,South,Tamil Nadu,Technology,Headphones,4,0.0,10000.0,1841.29,5,2024,18.41
+ORD-1282,2024-05-04,CUST-185,Corporate,West,Gujarat,Furniture,Bookcase,7,0.05,46550.0,12455.82,5,2024,26.76
+ORD-1586,2024-05-18,CUST-140,Home Office,North,Punjab,Technology,Phone,2,0.0,40000.0,8654.89,5,2024,21.64
+ORD-1362,2023-06-13,CUST-150,Consumer,West,Maharashtra,Office Supplies,Binder,7,0.0,840.0,214.83,6,2023,25.58
+ORD-1243,2024-04-19,CUST-164,Home Office,East,West Bengal,Furniture,Bookcase,4,0.0,28000.0,7191.12,4,2024,25.68
+ORD-1603,2023-04-09,CUST-006,Corporate,West,Maharashtra,Office Supplies,Binder,4,0.0,480.0,84.23,4,2023,17.55
+ORD-1092,2024-09-06,CUST-033,Consumer,North,Delhi,Technology,Printer,3,0.05,25650.0,1074.64,9,2024,4.19
+ORD-1210,2023-07-10,CUST-089,Home Office,North,Punjab,Office Supplies,Stapler,5,0.2,1000.0,-149.96,7,2023,-15.0
+ORD-1337,2023-08-20,CUST-059,Consumer,North,Punjab,Office Supplies,Stapler,1,0.0,250.0,48.82,8,2023,19.53
+ORD-1737,2023-09-01,CUST-108,Corporate,West,Gujarat,Furniture,Bookcase,2,0.0,14000.0,3458.31,9,2023,24.7
+ORD-1668,2024-11-01,CUST-163,Consumer,East,Odisha,Furniture,Table,4,0.0,36000.0,674.36,11,2024,1.87
+ORD-1301,2024-08-26,CUST-086,Consumer,East,West Bengal,Furniture,Table,4,0.05,34200.0,4897.31,8,2024,14.32
+ORD-1085,2024-05-26,CUST-009,Consumer,West,Maharashtra,Technology,Phone,1,0.1,18000.0,2921.52,5,2024,16.23
+ORD-1190,2024-05-14,CUST-085,Consumer,West,Maharashtra,Office Supplies,Binder,3,0.1,324.0,50.18,5,2024,15.49
+ORD-1039,2024-04-06,CUST-013,Corporate,North,Delhi,Furniture,Table,3,0.2,21600.0,4886.19,4,2024,22.62
+ORD-1500,2023-03-25,CUST-176,Home Office,South,Tamil Nadu,Furniture,Sofa,4,0.1,64800.0,14949.11,3,2023,23.07
+ORD-1623,2023-11-01,CUST-095,Corporate,West,Gujarat,Furniture,Chair,4,0.05,17100.0,4244.45,11,2023,24.82
+ORD-1634,2023-05-14,CUST-071,Corporate,East,West Bengal,Technology,Laptop,3,0.2,108000.0,38337.89,5,2023,35.5
+ORD-1516,2024-10-05,CUST-065,Corporate,North,Delhi,Office Supplies,Binder,7,0.0,840.0,74.37,10,2024,8.85
+ORD-1723,2023-03-29,CUST-025,Corporate,North,Punjab,Furniture,Table,2,0.05,17100.0,2767.8,3,2023,16.19
+ORD-1104,2024-08-04,CUST-179,Corporate,East,West Bengal,Office Supplies,Binder,6,0.1,648.0,108.11,8,2024,16.68
+ORD-1814,2024-07-21,CUST-044,Consumer,South,Karnataka,Furniture,Chair,1,0.2,3600.0,257.7,7,2024,7.16
+ORD-1233,2024-07-07,CUST-196,Corporate,North,Punjab,Office Supplies,Pen Set,2,0.2,240.0,-7.64,7,2024,-3.18
+ORD-1676,2024-02-28,CUST-147,Home Office,West,Maharashtra,Furniture,Table,4,0.0,36000.0,7635.77,2,2024,21.21
+ORD-1105,2024-07-28,CUST-038,Corporate,East,Odisha,Furniture,Bookcase,6,0.2,33600.0,9369.37,7,2024,27.89
+ORD-1341,2023-08-01,CUST-131,Home Office,West,Maharashtra,Technology,Printer,7,0.0,63000.0,-1581.75,8,2023,-2.51
+ORD-1936,2023-04-26,CUST-032,Consumer,East,West Bengal,Office Supplies,Pen Set,7,0.0,1050.0,278.49,4,2023,26.52
+ORD-1253,2023-08-29,CUST-083,Corporate,South,Tamil Nadu,Office Supplies,Binder,4,0.05,456.0,3.17,8,2023,0.7
+ORD-1408,2024-11-13,CUST-152,Home Office,East,Odisha,Technology,Phone,2,0.05,38000.0,6283.3,11,2024,16.54
+ORD-1422,2024-07-13,CUST-117,Home Office,South,Tamil Nadu,Technology,Printer,7,0.2,50400.0,19247.06,7,2024,38.19
+ORD-1208,2023-07-12,CUST-141,Consumer,North,Delhi,Furniture,Table,3,0.0,27000.0,6635.94,7,2023,24.58
+ORD-1990,2023-09-08,CUST-106,Corporate,unknown,Delhi,Technology,Headphones,7,0.0,17500.0,3771.96,9,2023,21.55
+ORD-1778,2023-07-17,CUST-188,Consumer,North,Delhi,Technology,Headphones,5,0.0,12500.0,2315.18,7,2023,18.52
+ORD-1082,2023-04-28,CUST-086,Consumer,South,Karnataka,Office Supplies,Pen Set,7,0.0,1050.0,134.65,4,2023,12.82
+ORD-1497,2023-10-01,CUST-124,Home Office,North,Delhi,Technology,Headphones,6,0.2,12000.0,3856.59,10,2023,32.14
+ORD-1929,2024-02-26,CUST-189,Consumer,East,Odisha,Technology,Phone,6,0.1,108000.0,32652.81,2,2024,30.23
+ORD-1583,2023-02-07,CUST-181,Home Office,South,Tamil Nadu,Technology,Printer,6,0.05,51300.0,7109.21,2,2023,13.86
+ORD-1788,2024-02-02,CUST-073,Corporate,East,West Bengal,Furniture,Sofa,7,0.0,126000.0,17090.12,2,2024,13.56
+ORD-1087,2023-08-17,CUST-038,Consumer,East,West Bengal,Furniture,Sofa,5,0.05,85500.0,21090.27,8,2023,24.67
+ORD-1064,2023-10-27,CUST-124,Corporate,North,Delhi,Furniture,Bookcase,6,0.2,33600.0,6204.9,10,2023,18.47
+ORD-1270,2023-08-04,CUST-002,Home Office,East,West Bengal,Office Supplies,Notebook,5,0.05,380.0,98.69,8,2023,25.97
+ORD-1605,2024-01-27,CUST-109,Home Office,North,Delhi,Technology,Laptop,3,0.2,108000.0,29447.86,1,2024,27.27
+ORD-1274,2023-11-02,CUST-083,Corporate,North,Punjab,Office Supplies,Stapler,2,0.05,475.0,98.02,11,2023,20.64
+ORD-1995,2024-04-01,CUST-094,Corporate,West,Maharashtra,Office Supplies,Notebook,5,0.05,380.0,109.32,4,2024,28.77
+ORD-1880,2023-03-04,CUST-065,Home Office,North,Delhi,Office Supplies,Notebook,6,0.0,480.0,200.27,3,2023,41.72
+ORD-1835,2024-07-21,CUST-153,Corporate,West,Gujarat,Furniture,Bookcase,4,0.2,22400.0,8068.31,7,2024,36.02
+ORD-1903,2024-10-07,CUST-112,Corporate,North,Delhi,Technology,Printer,2,0.0,18000.0,5028.35,10,2024,27.94
+ORD-1153,2023-08-03,CUST-197,Consumer,South,Karnataka,Technology,Headphones,5,0.0,12500.0,3177.29,8,2023,25.42
+ORD-1613,2023-10-09,CUST-126,Corporate,North,Delhi,Technology,Headphones,1,0.1,2250.0,565.57,10,2023,25.14
+ORD-1790,2023-03-11,CUST-180,Consumer,West,Maharashtra,Furniture,Chair,1,0.1,4050.0,176.76,3,2023,4.36
+ORD-1410,2023-05-08,CUST-050,Corporate,West,Gujarat,Technology,Laptop,5,0.1,202500.0,73427.32,5,2023,36.26
+ORD-1815,2024-09-02,CUST-129,Home Office,North,Delhi,Technology,Phone,4,0.1,72000.0,8825.51,9,2024,12.26
+ORD-1517,2023-02-18,CUST-011,Home Office,North,Delhi,Office Supplies,Notebook,7,0.2,448.0,7.62,2,2023,1.7
+ORD-1044,2023-02-19,CUST-159,Consumer,East,West Bengal,Furniture,Chair,7,0.05,29925.0,4664.33,2,2023,15.59
+ORD-1625,2023-06-19,CUST-088,Consumer,East,West Bengal,Office Supplies,Notebook,1,0.2,64.0,5.17,6,2023,8.08
+ORD-1390,2024-06-29,CUST-080,Corporate,West,Gujarat,Technology,Headphones,4,0.1,9000.0,646.88,6,2024,7.19
+ORD-1220,2023-04-04,CUST-122,Home Office,West,Maharashtra,Furniture,Table,5,0.0,45000.0,6912.35,4,2023,15.36
+ORD-1140,2024-12-18,CUST-052,Home Office,South,Karnataka,Technology,Headphones,5,0.0,12500.0,753.22,12,2024,6.03
+ORD-1349,2023-05-01,CUST-071,Consumer,South,Tamil Nadu,Furniture,Sofa,1,0.2,14400.0,3348.27,5,2023,23.25
+ORD-1357,2024-10-12,CUST-180,Consumer,East,West Bengal,Office Supplies,Notebook,1,0.1,72.0,6.53,10,2024,9.07
+ORD-1722,2024-09-08,CUST-157,Corporate,East,Odisha,Technology,Phone,4,0.2,64000.0,28407.15,9,2024,44.39
+ORD-1133,2024-02-13,CUST-108,Home Office,East,West Bengal,Office Supplies,Stapler,3,0.1,675.0,114.31,2,2024,16.93
+ORD-1261,2023-05-05,CUST-193,Corporate,West,Gujarat,Technology,Laptop,4,0.05,171000.0,32257.8,5,2023,18.86
+ORD-1278,2023-02-17,CUST-005,Home Office,North,Delhi,Technology,Laptop,7,0.05,299250.0,47808.72,2,2023,15.98
+ORD-1079,2024-05-03,CUST-049,Corporate,North,Delhi,Office Supplies,Notebook,1,0.05,76.0,20.29,5,2024,26.7
+ORD-1985,2024-04-21,CUST-179,Consumer,North,Delhi,Office Supplies,Notebook,1,0.05,76.0,32.13,4,2024,42.28
+ORD-1115,2024-02-20,CUST-005,Home Office,West,Gujarat,Office Supplies,Binder,3,0.2,288.0,66.96,2,2024,23.25
+ORD-1824,2024-03-31,CUST-039,Consumer,South,Karnataka,Office Supplies,Pen Set,4,0.2,480.0,126.18,3,2024,26.29
+ORD-1844,2023-01-04,CUST-117,Corporate,East,West Bengal,Office Supplies,Notebook,2,0.0,160.0,8.96,1,2023,5.6
+ORD-1718,2023-06-22,CUST-124,Home Office,East,Odisha,Furniture,Bookcase,4,0.05,26600.0,9603.83,6,2023,36.1
+ORD-1380,2023-01-04,CUST-040,Corporate,East,Odisha,Office Supplies,Binder,7,0.2,672.0,92.55,1,2023,13.77
+ORD-1944,2023-04-05,CUST-110,Consumer,West,Gujarat,Technology,Phone,1,0.05,19000.0,2256.16,4,2023,11.87
+ORD-1184,2023-12-28,CUST-018,Consumer,East,West Bengal,Office Supplies,Binder,2,0.2,192.0,68.6,12,2023,35.73
+ORD-1798,2023-08-19,CUST-173,Consumer,East,West Bengal,Technology,Laptop,2,0.0,90000.0,24261.32,8,2023,26.96
+ORD-1358,2023-03-08,CUST-049,Corporate,West,Gujarat,Technology,Headphones,3,0.1,6750.0,1761.87,3,2023,26.1
+ORD-1036,2024-09-18,CUST-197,Consumer,West,Gujarat,Office Supplies,Notebook,7,0.1,504.0,36.14,9,2024,7.17
+ORD-1339,2024-11-26,CUST-095,Consumer,North,Punjab,Furniture,Table,3,0.0,24300.0,2204.9,11,2024,9.07
+ORD-1845,2023-01-04,CUST-006,Corporate,West,Maharashtra,Office Supplies,Binder,7,0.0,840.0,182.77,1,2023,21.76
+ORD-1754,2024-02-10,CUST-104,Home Office,South,Karnataka,Furniture,Chair,2,0.0,9000.0,2999.73,2,2024,33.33
+ORD-1420,2024-11-08,CUST-063,Home Office,South,Tamil Nadu,Furniture,Table,7,0.2,50400.0,-3538.25,11,2024,-7.02
+ORD-1149,2023-02-12,CUST-040,Home Office,North,Delhi,Technology,Laptop,4,0.1,162000.0,5922.22,2,2023,3.66
+ORD-1009,2023-03-10,CUST-184,Consumer,West,Gujarat,Furniture,Chair,1,0.05,4275.0,1572.2,3,2023,36.78
+ORD-1045,2024-12-09,CUST-180,Home Office,West,Maharashtra,Furniture,Chair,5,0.0,22500.0,6882.77,12,2024,30.59
+ORD-1095,2023-07-30,CUST-166,Home Office,West,Gujarat,Furniture,Sofa,3,0.05,51300.0,12015.09,7,2023,23.42
+ORD-1912,2023-10-02,CUST-150,Home Office,unknown,Delhi,Technology,Printer,4,0.1,32400.0,4240.0,10,2023,13.09
+ORD-1548,2024-01-12,CUST-162,Consumer,East,West Bengal,Technology,Phone,2,0.2,32000.0,7.53,1,2024,0.02
+ORD-1560,2024-01-27,CUST-174,Consumer,South,Karnataka,Technology,Headphones,4,0.0,10000.0,418.09,1,2024,4.18
+ORD-1298,2023-07-27,CUST-161,Home Office,East,Odisha,Furniture,Sofa,3,0.2,43200.0,12483.4,7,2023,28.9
+ORD-1290,2024-08-12,CUST-128,Corporate,North,Punjab,Furniture,Sofa,7,0.1,113400.0,12028.8,8,2024,10.61
+ORD-1415,2024-05-09,CUST-041,Corporate,East,West Bengal,Office Supplies,Pen Set,7,0.0,1050.0,120.71,5,2024,11.5
+ORD-1313,2023-07-25,CUST-046,Consumer,West,Maharashtra,Office Supplies,Binder,3,0.05,342.0,115.25,7,2023,33.7
+ORD-1421,2024-05-21,CUST-112,Home Office,North,Delhi,Furniture,Table,3,0.0,27000.0,9509.42,5,2024,35.22
+ORD-1657,2024-04-07,CUST-055,Consumer,South,Karnataka,Furniture,Chair,1,0.0,4500.0,1225.34,4,2024,27.23
+ORD-1122,2024-04-22,CUST-045,Corporate,East,Odisha,Technology,Laptop,2,0.0,90000.0,17392.27,4,2024,19.32
+ORD-1849,2024-03-18,CUST-130,Consumer,East,Odisha,Technology,Laptop,1,0.1,40500.0,7997.1,3,2024,19.75
+ORD-1825,2023-03-08,CUST-091,Consumer,West,Maharashtra,Technology,Phone,2,0.2,32000.0,7928.49,3,2023,24.78
+ORD-1361,2024-10-12,CUST-165,Corporate,North,Delhi,Technology,Phone,2,0.0,40000.0,6171.48,10,2024,15.43
+ORD-1336,2024-12-04,CUST-053,Consumer,West,Maharashtra,Furniture,Sofa,3,0.05,51300.0,4804.87,12,2024,9.37
+ORD-1135,2023-08-10,CUST-009,Home Office,West,Maharashtra,Technology,Laptop,3,0.0,135000.0,40808.51,8,2023,30.23
+ORD-1858,2024-05-03,CUST-145,Corporate,East,West Bengal,Office Supplies,Binder,1,0.0,120.0,37.14,5,2024,30.95
+ORD-1709,2023-12-07,CUST-132,Consumer,South,Tamil Nadu,Technology,Laptop,2,0.0,90000.0,18569.55,12,2023,20.63
+ORD-1769,2023-10-02,CUST-176,Consumer,South,Karnataka,Technology,Headphones,6,0.05,14250.0,3150.93,10,2023,22.11
+ORD-1651,2024-04-21,CUST-094,Home Office,South,Tamil Nadu,Office Supplies,Binder,3,0.1,324.0,11.17,4,2024,3.45
+ORD-1367,2023-08-19,CUST-016,Consumer,North,Delhi,Furniture,Bookcase,7,0.2,39200.0,3527.99,8,2023,9.0
+ORD-1971,2023-11-02,CUST-191,Consumer,North,Delhi,Office Supplies,Binder,6,0.1,648.0,154.52,11,2023,23.85
+ORD-1914,2024-03-08,CUST-122,Home Office,North,Punjab,Furniture,Sofa,1,0.1,16200.0,3204.06,3,2024,19.78
+ORD-1619,2023-04-13,CUST-184,Corporate,South,Karnataka,Office Supplies,Stapler,4,0.1,900.0,149.89,4,2023,16.65
+ORD-1008,2023-05-28,CUST-169,Corporate,West,Gujarat,Furniture,Sofa,5,0.0,90000.0,31361.27,5,2023,34.85
+ORD-1097,2024-05-13,CUST-107,Corporate,East,Odisha,Furniture,Sofa,6,0.0,108000.0,21138.11,5,2024,19.57
+ORD-1980,2024-03-06,CUST-130,Home Office,North,Punjab,Technology,Printer,7,0.2,50400.0,4176.04,3,2024,8.29
+ORD-1348,2023-05-12,CUST-058,Corporate,East,Odisha,Furniture,Table,7,0.1,56700.0,10823.8,5,2023,19.09
+ORD-1509,2023-06-22,CUST-028,Consumer,East,West Bengal,Technology,Laptop,2,0.05,85500.0,21963.88,6,2023,25.69
+ORD-1966,2024-03-15,CUST-131,Corporate,South,Tamil Nadu,Technology,Printer,5,0.05,42750.0,4916.72,3,2024,11.5
+ORD-1703,2023-05-06,CUST-132,Consumer,North,Punjab,Technology,Headphones,6,0.0,15000.0,3055.92,5,2023,20.37
+ORD-1746,2024-01-24,CUST-004,Home Office,South,Karnataka,Furniture,Table,2,0.0,18000.0,4020.19,1,2024,22.33
+ORD-1021,2023-09-28,CUST-022,Home Office,East,Odisha,Technology,Phone,7,0.1,126000.0,47040.08,9,2023,37.33
+ORD-1482,2023-07-02,CUST-034,Corporate,West,Maharashtra,Office Supplies,Pen Set,1,0.1,135.0,9.89,7,2023,7.33
+ORD-1976,2023-03-11,CUST-152,Consumer,South,Tamil Nadu,Furniture,Bookcase,4,0.0,28000.0,6326.45,3,2023,22.59
+ORD-1405,2024-01-01,CUST-066,Consumer,West,Gujarat,Furniture,Sofa,2,0.1,32400.0,5692.71,1,2024,17.57
+ORD-1784,2023-12-16,CUST-099,Corporate,East,West Bengal,Technology,Printer,7,0.05,59850.0,10190.49,12,2023,17.03
+ORD-1927,2023-08-08,CUST-174,Corporate,West,Gujarat,Furniture,Table,4,0.2,28800.0,5203.12,8,2023,18.07
+ORD-1997,2023-09-21,CUST-147,Consumer,South,Karnataka,Furniture,Bookcase,5,0.05,33250.0,7498.64,9,2023,22.55
+ORD-1856,2023-06-28,CUST-146,Corporate,South,Tamil Nadu,Furniture,Table,7,0.1,56700.0,8879.19,6,2023,15.66
+ORD-1478,2024-04-29,CUST-134,Corporate,South,Karnataka,Office Supplies,Binder,3,0.2,288.0,54.45,4,2024,18.91
+ORD-1590,2024-08-07,CUST-078,Consumer,East,Odisha,Office Supplies,Notebook,1,0.1,72.0,-0.43,8,2024,-0.6
+ORD-1491,2024-09-25,CUST-052,Corporate,West,Maharashtra,Office Supplies,Notebook,2,0.05,152.0,45.99,9,2024,30.26
+ORD-1046,2023-11-22,CUST-031,Consumer,West,Maharashtra,Office Supplies,Pen Set,4,0.0,600.0,154.62,11,2023,25.77
+ORD-1364,2023-03-26,CUST-062,Consumer,West,Gujarat,Office Supplies,Notebook,2,0.0,160.0,50.01,3,2023,31.26
+ORD-1296,2024-09-12,CUST-172,Corporate,East,West Bengal,Office Supplies,Binder,4,0.0,480.0,43.08,9,2024,8.98
+ORD-1487,2024-01-23,CUST-187,Consumer,East,Odisha,Furniture,Table,1,0.2,7200.0,1294.34,1,2024,17.98
+ORD-1224,2024-06-10,CUST-106,Corporate,East,West Bengal,Furniture,Chair,4,0.05,17100.0,184.74,6,2024,1.08
+ORD-1750,2024-12-02,CUST-019,Consumer,South,Karnataka,Office Supplies,Binder,1,0.2,96.0,4.94,12,2024,5.15
+ORD-1219,2024-10-20,CUST-113,Consumer,South,Karnataka,Technology,Printer,7,0.0,63000.0,2544.14,10,2024,4.04
+ORD-1955,2024-03-22,CUST-106,Corporate,East,Odisha,Technology,Laptop,1,0.1,40500.0,4053.47,3,2024,10.01
+ORD-1850,2024-12-16,CUST-094,Consumer,West,Maharashtra,Furniture,Table,6,0.0,54000.0,3596.83,12,2024,6.66
+ORD-1761,2024-02-08,CUST-189,Consumer,North,Punjab,Furniture,Chair,3,0.2,10800.0,3116.77,2,2024,28.86
+ORD-1998,2024-12-03,CUST-089,Consumer,North,Punjab,Office Supplies,Pen Set,5,0.0,750.0,51.25,12,2024,6.83
+ORD-1647,2024-01-26,CUST-127,Corporate,East,Odisha,Technology,Laptop,6,0.05,256500.0,46464.02,1,2024,18.11
+ORD-1201,2024-10-25,CUST-020,Home Office,North,Punjab,Furniture,Bookcase,6,0.0,42000.0,18123.83,10,2024,43.15
+ORD-1562,2023-12-26,CUST-019,Home Office,East,Odisha,Furniture,Sofa,2,0.2,28800.0,5826.24,12,2023,20.23
+ORD-1622,2023-05-01,CUST-029,Consumer,West,Gujarat,Office Supplies,Stapler,2,0.1,450.0,66.61,5,2023,14.8
+ORD-1063,2024-12-07,CUST-038,Consumer,North,Delhi,Office Supplies,Stapler,3,0.1,675.0,-23.22,12,2024,-3.44
+ORD-1804,2024-06-22,CUST-042,Consumer,North,Delhi,Technology,Phone,4,0.0,80000.0,-6319.2,6,2024,-7.9
+ORD-1604,2024-08-26,CUST-143,Corporate,East,Odisha,Furniture,Chair,3,0.1,12150.0,4318.3,8,2024,35.54
+ORD-1245,2023-03-03,CUST-060,Consumer,East,Odisha,Office Supplies,Notebook,2,0.1,144.0,29.0,3,2023,20.14
+ORD-1442,2023-04-07,CUST-086,Consumer,West,Gujarat,Office Supplies,Stapler,2,0.0,500.0,47.99,4,2023,9.6
+ORD-1982,2024-02-04,CUST-010,Home Office,South,Karnataka,Office Supplies,Stapler,4,0.2,800.0,44.77,2,2024,5.6
+ORD-1574,2023-01-06,CUST-188,Home Office,East,West Bengal,Office Supplies,Stapler,4,0.1,900.0,114.06,1,2023,12.67
+ORD-1000,2023-03-07,CUST-147,Corporate,East,Odisha,Technology,Headphones,1,0.2,2000.0,346.37,3,2023,17.32
+ORD-1539,2023-01-16,CUST-195,Home Office,West,Maharashtra,Furniture,Chair,5,0.0,22500.0,6927.35,1,2023,30.79
+ORD-1767,2023-12-16,CUST-143,Consumer,East,West Bengal,Technology,Printer,5,0.05,42750.0,13428.16,12,2023,31.41
+ORD-1762,2024-11-23,CUST-136,Consumer,South,Karnataka,Office Supplies,Binder,7,0.05,798.0,261.36,11,2024,32.75
+ORD-1868,2023-11-22,CUST-080,Consumer,West,Gujarat,Technology,Printer,7,0.0,63000.0,3396.98,11,2023,5.39
+ORD-1689,2024-07-25,CUST-085,Corporate,West,Maharashtra,Furniture,Bookcase,7,0.0,49000.0,1301.19,7,2024,2.66
+ORD-1187,2023-10-06,CUST-053,Corporate,North,Delhi,Technology,Laptop,2,0.05,85500.0,18015.6,10,2023,21.07
+ORD-1406,2023-11-13,CUST-167,Consumer,South,Tamil Nadu,Technology,Headphones,1,0.05,2375.0,820.15,11,2023,34.53
+ORD-1148,2024-08-22,CUST-140,Consumer,South,Karnataka,Technology,Headphones,6,0.2,12000.0,1132.48,8,2024,9.44
+ORD-1751,2023-04-18,CUST-118,Home Office,unknown,West Bengal,Technology,Laptop,7,0.2,252000.0,21601.13,4,2023,8.57
+ORD-1993,2023-11-11,CUST-168,Consumer,East,West Bengal,Office Supplies,Stapler,7,0.1,1575.0,660.51,11,2023,41.94
+ORD-1953,2023-11-09,CUST-079,Home Office,East,West Bengal,Office Supplies,Stapler,5,0.05,1187.5,531.78,11,2023,44.78
+ORD-1026,2023-10-21,CUST-132,Home Office,South,Karnataka,Technology,Laptop,7,0.1,283500.0,2594.55,10,2023,0.92
+ORD-1461,2023-04-13,CUST-022,Home Office,East,West Bengal,Office Supplies,Stapler,6,0.05,1425.0,51.71,4,2023,3.63
+ORD-1670,2024-11-26,CUST-169,Consumer,North,Punjab,Furniture,Table,5,0.05,42750.0,-1807.93,11,2024,-4.23
+ORD-1655,2024-01-24,CUST-021,Corporate,East,West Bengal,Furniture,Chair,1,0.0,4500.0,713.57,1,2024,15.86
+ORD-1785,2024-03-05,CUST-121,Corporate,East,West Bengal,Furniture,Bookcase,1,0.2,5600.0,-507.48,3,2024,-9.06
+ORD-1059,2024-05-13,CUST-156,Consumer,North,Punjab,Technology,Phone,2,0.05,38000.0,6894.96,5,2024,18.14
+ORD-1714,2024-11-02,CUST-150,Home Office,North,Delhi,Furniture,Bookcase,5,0.0,35000.0,10548.97,11,2024,30.14
+ORD-1326,2023-06-22,CUST-143,Home Office,South,Tamil Nadu,Technology,Printer,2,0.05,17100.0,3272.1,6,2023,19.14
+ORD-1424,2023-11-01,CUST-109,Corporate,West,Maharashtra,Technology,Laptop,5,0.05,213750.0,43166.76,11,2023,20.19
+ORD-1720,2023-04-12,CUST-110,Home Office,West,Maharashtra,Office Supplies,Binder,4,0.05,456.0,46.85,4,2023,10.27
+ORD-1477,2023-01-14,CUST-025,Corporate,South,Karnataka,Office Supplies,Binder,7,0.1,756.0,180.83,1,2023,23.92
+ORD-1043,2023-09-16,CUST-059,Consumer,North,Delhi,Technology,Phone,7,0.2,112000.0,9049.08,9,2023,8.08
+ORD-1661,2024-06-20,CUST-110,Home Office,South,Tamil Nadu,Office Supplies,Binder,1,0.05,114.0,13.84,6,2024,12.14
+ORD-1635,2024-05-15,CUST-048,Home Office,North,Punjab,Technology,Laptop,5,0.0,225000.0,61735.95,5,2024,27.44
+ORD-1823,2024-04-19,CUST-004,Corporate,West,Maharashtra,Furniture,Chair,4,0.0,18000.0,3223.31,4,2024,17.91
+ORD-1528,2024-10-30,CUST-171,Consumer,South,Karnataka,Technology,Laptop,4,0.0,180000.0,37356.34,10,2024,20.75
+ORD-1736,2024-06-17,CUST-019,Corporate,East,West Bengal,Technology,Laptop,1,0.2,36000.0,-3968.41,6,2024,-11.02
+ORD-1483,2024-08-04,CUST-103,Corporate,South,Tamil Nadu,Furniture,Bookcase,4,0.0,28000.0,1390.79,8,2024,4.97
+ORD-1218,2023-11-23,CUST-060,Home Office,West,Maharashtra,Furniture,Sofa,7,0.2,100800.0,19836.52,11,2023,19.68
+ORD-1741,2024-07-10,CUST-193,Corporate,East,Odisha,Technology,Laptop,5,0.1,202500.0,17823.55,7,2024,8.8
+ORD-1820,2023-01-18,CUST-174,Consumer,East,West Bengal,Technology,Printer,5,0.1,40500.0,11106.77,1,2023,27.42
+ORD-1855,2024-09-12,CUST-087,Consumer,East,Odisha,Technology,Printer,4,0.05,34200.0,3605.8,9,2024,10.54
+ORD-1932,2023-07-07,CUST-091,Home Office,North,Punjab,Office Supplies,Pen Set,3,0.0,450.0,65.05,7,2023,14.46
+ORD-1609,2024-09-18,CUST-016,Home Office,South,Tamil Nadu,Office Supplies,Stapler,4,0.1,900.0,163.99,9,2024,18.22
+ORD-1485,2023-06-19,CUST-032,Home Office,East,West Bengal,Technology,Phone,7,0.0,140000.0,27165.27,6,2023,19.4
+ORD-1125,2024-02-17,CUST-065,Consumer,North,Delhi,Furniture,Bookcase,5,0.1,31500.0,9350.45,2,2024,29.68
+ORD-1913,2024-12-16,CUST-091,Corporate,West,Maharashtra,Technology,Phone,1,0.1,18000.0,186.82,12,2024,1.04
+ORD-1061,2024-06-27,CUST-115,Home Office,East,Odisha,Technology,Laptop,5,0.05,213750.0,38768.58,6,2024,18.14
+ORD-1081,2023-11-16,CUST-071,Home Office,West,Gujarat,Furniture,Sofa,1,0.2,14400.0,672.01,11,2023,4.67
+ORD-1680,2024-06-12,CUST-173,Home Office,South,Tamil Nadu,Technology,Headphones,6,0.05,14250.0,640.87,6,2024,4.5
+ORD-1324,2024-12-12,CUST-071,Home Office,North,Delhi,Office Supplies,Pen Set,3,0.1,405.0,122.59,12,2024,30.27
+ORD-1385,2023-03-31,CUST-083,Corporate,North,Punjab,Technology,Headphones,1,0.05,2375.0,618.04,3,2023,26.02
+ORD-1056,2024-02-03,CUST-060,Consumer,North,Delhi,Technology,Printer,4,0.1,32400.0,7552.62,2,2024,23.31
+ORD-1019,2023-11-25,CUST-104,Home Office,West,Maharashtra,Technology,Headphones,7,0.1,15750.0,3521.93,11,2023,22.36
+ORD-1968,2024-11-02,CUST-009,Home Office,South,Tamil Nadu,Office Supplies,Binder,2,0.05,228.0,62.62,11,2024,27.46
+ORD-1086,2023-03-12,CUST-077,Consumer,South,Karnataka,Office Supplies,Binder,2,0.2,192.0,5.14,3,2023,2.68
+ORD-1838,2023-01-11,CUST-085,Corporate,South,Tamil Nadu,Office Supplies,Binder,1,0.0,120.0,48.82,1,2023,40.68
+ORD-1758,2023-04-04,CUST-089,Corporate,West,Gujarat,Furniture,Bookcase,2,0.0,14000.0,2318.26,4,2023,16.56
+ORD-1649,2024-09-11,CUST-161,Consumer,South,Karnataka,Furniture,Sofa,3,0.0,54000.0,2934.09,9,2024,5.43
+ORD-1316,2024-06-17,CUST-012,Corporate,South,Karnataka,Furniture,Bookcase,5,0.0,35000.0,2123.79,6,2024,6.07
+ORD-1034,2024-10-10,CUST-017,Consumer,North,Delhi,Office Supplies,Binder,3,0.0,360.0,136.85,10,2024,38.01
+ORD-1808,2023-10-13,CUST-043,Consumer,North,Delhi,Technology,Printer,4,0.1,32400.0,5624.48,10,2023,17.36
+ORD-1138,2023-09-11,CUST-002,Corporate,South,Tamil Nadu,Office Supplies,Pen Set,7,0.0,1050.0,-0.92,9,2023,-0.09
+ORD-1766,2024-03-23,CUST-048,Home Office,East,Odisha,Technology,Laptop,5,0.0,225000.0,53524.43,3,2024,23.79
+ORD-1588,2024-09-03,CUST-040,Home Office,North,Punjab,Furniture,Chair,5,0.1,20250.0,1300.02,9,2024,6.42
+ORD-1904,2023-12-02,CUST-194,Consumer,North,Punjab,Office Supplies,Pen Set,5,0.0,750.0,242.64,12,2023,32.35
+ORD-1498,2024-11-07,CUST-080,Home Office,South,Karnataka,Office Supplies,Stapler,2,0.1,450.0,157.77,11,2024,35.06
+ORD-1538,2024-01-30,CUST-047,Consumer,East,Odisha,Technology,Headphones,6,0.05,14250.0,2653.63,1,2024,18.62
+ORD-1800,2023-01-09,CUST-194,Home Office,unknown,Tamil Nadu,Technology,Printer,1,0.05,8550.0,80.31,1,2023,0.94
+ORD-1555,2024-01-04,CUST-146,Corporate,North,Delhi,Furniture,Chair,4,0.0,18000.0,395.44,1,2024,2.2
+ORD-1096,2023-06-24,CUST-132,Corporate,East,West Bengal,Technology,Phone,7,0.0,140000.0,17068.29,6,2023,12.19
+ORD-1083,2024-08-30,CUST-017,Consumer,East,Odisha,Technology,Printer,3,0.05,25650.0,3359.98,8,2024,13.1
+ORD-1446,2023-08-18,CUST-173,Corporate,South,Tamil Nadu,Technology,Laptop,4,0.0,180000.0,27613.52,8,2023,15.34
+ORD-1474,2024-04-08,CUST-067,Consumer,South,Tamil Nadu,Furniture,Chair,3,0.0,13500.0,3795.94,4,2024,28.12
+ORD-1764,2023-09-21,CUST-069,Home Office,East,Odisha,Furniture,Chair,1,0.0,4500.0,243.76,9,2023,5.42
+ORD-1366,2023-12-09,CUST-190,Consumer,South,Karnataka,Office Supplies,Pen Set,5,0.0,750.0,243.24,12,2023,32.43
+ORD-1873,2023-04-02,CUST-095,Corporate,East,Odisha,Technology,Phone,3,0.0,60000.0,8348.36,4,2023,13.91
+ORD-1697,2024-03-06,CUST-014,Corporate,South,Karnataka,Technology,Printer,3,0.05,25650.0,552.74,3,2024,2.15
+ORD-1585,2024-11-06,CUST-010,Consumer,East,Odisha,Office Supplies,Pen Set,3,0.0,450.0,30.87,11,2024,6.86
+ORD-1885,2024-06-20,CUST-176,Home Office,East,West Bengal,Office Supplies,Stapler,2,0.1,450.0,-24.15,6,2024,-5.37
+ORD-1948,2024-11-22,CUST-026,Home Office,South,Karnataka,Technology,Phone,6,0.0,120000.0,-2618.0,11,2024,-2.18
+ORD-1760,2023-05-09,CUST-179,Corporate,North,Punjab,Technology,Headphones,5,0.0,12500.0,1215.98,5,2023,9.73
+ORD-1918,2023-07-05,CUST-190,Consumer,North,Punjab,Furniture,Chair,2,0.1,8100.0,1124.36,7,2023,13.88
+ORD-1401,2024-07-21,CUST-183,Corporate,South,Tamil Nadu,Technology,Laptop,3,0.0,135000.0,5040.14,7,2024,3.73
+ORD-1759,2024-06-16,CUST-118,Home Office,West,Gujarat,Office Supplies,Binder,1,0.2,96.0,12.83,6,2024,13.36
+ORD-1392,2023-09-26,CUST-074,Corporate,East,West Bengal,Furniture,Table,6,0.2,43200.0,-1872.43,9,2023,-4.33
+ORD-1949,2023-07-22,CUST-171,Home Office,South,Tamil Nadu,Furniture,Table,5,0.2,36000.0,846.65,7,2023,2.35
+ORD-1745,2023-09-23,CUST-121,Home Office,South,Tamil Nadu,Office Supplies,Notebook,3,0.0,240.0,85.09,9,2023,35.45
+ORD-1271,2023-01-17,CUST-065,Consumer,South,Tamil Nadu,Furniture,Bookcase,6,0.2,33600.0,9149.56,1,2023,27.23
+ORD-1506,2024-01-23,CUST-036,Corporate,South,Karnataka,Technology,Printer,3,0.1,24300.0,453.24,1,2024,1.87
+ORD-1434,2023-11-13,CUST-018,Corporate,East,Odisha,Furniture,Table,5,0.2,36000.0,7393.51,11,2023,20.54
+ORD-1648,2024-12-02,CUST-048,Consumer,South,Karnataka,Office Supplies,Notebook,2,0.0,160.0,38.91,12,2024,24.32
+ORD-1942,2024-10-29,CUST-141,Corporate,East,Odisha,Technology,Headphones,6,0.0,15000.0,5663.69,10,2024,37.76
+ORD-1807,2023-03-22,CUST-002,Consumer,South,Tamil Nadu,Office Supplies,Pen Set,5,0.0,600.0,63.23,3,2023,10.54
+ORD-1561,2023-02-01,CUST-160,Home Office,West,Maharashtra,Furniture,Chair,3,0.0,13500.0,3215.9,2,2023,23.82
+ORD-1207,2024-12-08,CUST-182,Home Office,North,Delhi,Furniture,Chair,3,0.0,13500.0,-983.65,12,2024,-7.29
+ORD-1319,2024-07-15,CUST-138,Home Office,North,Punjab,Technology,Printer,2,0.1,16200.0,791.41,7,2024,4.89
+ORD-1991,2024-02-05,CUST-187,Corporate,West,Maharashtra,Office Supplies,Binder,1,0.0,120.0,34.1,2,2024,28.42
+ORD-1132,2023-03-08,CUST-085,Corporate,East,Odisha,Furniture,Sofa,4,0.2,57600.0,19918.36,3,2023,34.58
+ORD-1050,2024-07-08,CUST-173,Home Office,North,Punjab,Technology,Phone,4,0.0,80000.0,3652.46,7,2024,4.57
+ORD-1238,2023-08-14,CUST-079,Corporate,North,Punjab,Office Supplies,Binder,6,0.2,576.0,268.67,8,2023,46.64
+ORD-1564,2024-10-11,CUST-113,Home Office,South,Karnataka,Furniture,Chair,2,0.0,9000.0,1255.58,10,2024,13.95
+ORD-1592,2023-06-25,CUST-086,Home Office,South,Tamil Nadu,Office Supplies,Notebook,5,0.05,380.0,-16.34,6,2023,-4.3
+ORD-1450,2024-12-02,CUST-006,Consumer,West,Gujarat,Office Supplies,Stapler,5,0.0,1250.0,58.19,12,2024,4.66
+ORD-1031,2023-06-15,CUST-136,Consumer,North,Delhi,Office Supplies,Notebook,4,0.2,256.0,11.88,6,2023,4.64
+ORD-1121,2024-05-02,CUST-127,Consumer,South,Tamil Nadu,Furniture,Table,7,0.2,50400.0,17752.7,5,2024,35.22
+ORD-1211,2024-06-07,CUST-143,Consumer,East,Odisha,Technology,Printer,3,0.05,25650.0,8306.04,6,2024,32.38
+ORD-1351,2023-02-02,CUST-017,Home Office,North,Delhi,Office Supplies,Stapler,5,0.1,1125.0,189.26,2,2023,16.82
+ORD-1454,2024-03-11,CUST-063,Consumer,West,Maharashtra,Office Supplies,Pen Set,1,0.1,135.0,45.2,3,2024,33.48
+ORD-1302,2023-01-08,CUST-083,Consumer,South,Karnataka,Technology,Headphones,3,0.1,6750.0,-318.47,1,2023,-4.72
+ORD-1708,2023-12-14,CUST-149,Home Office,North,Delhi,Furniture,Sofa,3,0.2,43200.0,2619.1,12,2023,6.06
+ORD-1088,2024-07-14,CUST-107,Corporate,North,Punjab,Technology,Headphones,5,0.2,10000.0,644.5,7,2024,6.44
+ORD-1325,2023-06-18,CUST-014,Home Office,West,Gujarat,Furniture,Bookcase,7,0.0,49000.0,11570.78,6,2023,23.61
+ORD-1323,2024-10-30,CUST-066,Consumer,South,Karnataka,Technology,Phone,7,0.0,140000.0,9825.91,10,2024,7.02
+ORD-1255,2023-04-16,CUST-191,Home Office,West,Maharashtra,Office Supplies,Pen Set,6,0.2,720.0,16.26,4,2023,2.26
+ORD-1892,2024-01-17,CUST-041,Home Office,North,Delhi,Furniture,Table,5,0.1,40500.0,2918.72,1,2024,7.21
+ORD-1570,2024-11-23,CUST-066,Corporate,North,Delhi,Technology,Headphones,5,0.0,12500.0,707.24,11,2024,5.66
+ORD-1545,2023-02-08,CUST-143,Home Office,East,West Bengal,Furniture,Table,5,0.2,36000.0,2695.42,2,2023,7.49
+ORD-1550,2024-08-09,CUST-196,Home Office,West,Maharashtra,Furniture,Table,1,0.0,9000.0,732.42,8,2024,8.14
+ORD-1359,2024-06-30,CUST-059,Corporate,North,Delhi,Technology,Phone,6,0.05,114000.0,23894.63,6,2024,20.96
+ORD-1051,2023-05-23,CUST-018,Consumer,East,West Bengal,Furniture,Chair,3,0.0,13500.0,2880.59,5,2023,21.34
+ORD-1875,2024-01-04,CUST-179,Consumer,East,Odisha,Office Supplies,Binder,5,0.05,570.0,44.45,1,2024,7.8
+ORD-1938,2023-12-04,CUST-068,Consumer,East,West Bengal,Furniture,Table,2,0.0,18000.0,4339.98,12,2023,24.11
+ORD-1772,2023-01-04,CUST-101,Consumer,North,Delhi,Furniture,Chair,1,0.2,3600.0,992.68,1,2023,27.57
+ORD-1102,2024-08-10,CUST-058,Home Office,West,Gujarat,Furniture,Bookcase,5,0.0,35000.0,402.07,8,2024,1.15
+ORD-1195,2023-03-05,CUST-004,Corporate,East,Odisha,Furniture,Chair,5,0.0,22500.0,10329.61,3,2023,45.91
+ORD-1679,2024-11-14,CUST-081,Corporate,South,Karnataka,Technology,Printer,4,0.0,36000.0,5058.49,11,2024,14.05
+ORD-1805,2024-07-24,CUST-048,Consumer,South,Karnataka,Furniture,Bookcase,2,0.0,14000.0,3232.74,7,2024,23.09
+ORD-1628,2024-01-04,CUST-108,Consumer,East,West Bengal,Technology,Laptop,7,0.05,299250.0,52248.74,1,2024,17.46
+ORD-1124,2024-09-16,CUST-005,Home Office,South,Tamil Nadu,Furniture,Bookcase,6,0.1,37800.0,3828.13,9,2024,10.13
+ORD-1404,2023-12-31,CUST-106,Consumer,East,Odisha,Furniture,Bookcase,5,0.1,31500.0,8550.92,12,2023,27.15
+ORD-1730,2024-06-16,CUST-051,Consumer,West,Gujarat,Office Supplies,Notebook,2,0.1,144.0,-19.22,6,2024,-13.35
+ORD-1287,2024-02-22,CUST-122,Home Office,North,Punjab,Furniture,Chair,4,0.2,14400.0,4443.21,2,2024,30.86
+ORD-1831,2023-06-25,CUST-069,Home Office,West,Gujarat,Technology,Laptop,6,0.2,216000.0,50438.46,6,2023,23.35
+ORD-1047,2024-10-13,CUST-055,Corporate,South,Tamil Nadu,Furniture,Chair,2,0.0,9000.0,1392.45,10,2024,15.47
+ORD-1725,2023-03-27,CUST-012,Consumer,North,Delhi,Technology,Laptop,4,0.05,171000.0,28744.18,3,2023,16.81
+ORD-1587,2023-03-14,CUST-128,Consumer,West,Gujarat,Furniture,Table,1,0.1,8100.0,890.46,3,2023,10.99
+ORD-1607,2024-01-11,CUST-057,Corporate,North,Punjab,Furniture,Chair,4,0.2,14400.0,4210.1,1,2024,29.24
+ORD-1433,2023-04-06,CUST-139,Home Office,North,Punjab,Furniture,Bookcase,1,0.05,6650.0,581.56,4,2023,8.75
+ORD-1674,2024-03-29,CUST-169,Corporate,West,Gujarat,Furniture,Sofa,3,0.0,54000.0,7652.19,3,2024,14.17
+ORD-1263,2024-11-06,CUST-134,Corporate,West,Gujarat,Office Supplies,Stapler,1,0.0,250.0,47.86,11,2024,19.14
+ORD-1360,2024-09-09,CUST-001,Consumer,East,Odisha,Office Supplies,Binder,6,0.0,720.0,141.54,9,2024,19.66
+ORD-1075,2023-12-14,CUST-068,Corporate,East,Odisha,Furniture,Bookcase,4,0.05,26600.0,7688.26,12,2023,28.9
+ORD-1466,2023-05-02,CUST-152,Consumer,South,Karnataka,Furniture,Sofa,4,0.05,68400.0,24660.99,5,2023,36.05
+ORD-1299,2023-01-16,CUST-057,Consumer,North,Delhi,Furniture,Bookcase,3,0.2,16800.0,1732.77,1,2023,10.31
+ORD-1534,2024-02-26,CUST-030,Home Office,North,Delhi,Technology,Laptop,7,0.0,315000.0,117784.14,2,2024,37.39
+ORD-1584,2023-10-22,CUST-089,Consumer,East,West Bengal,Office Supplies,Pen Set,2,0.05,285.0,16.43,10,2023,5.76
+ORD-1493,2024-03-16,CUST-035,Corporate,East,Odisha,Furniture,Bookcase,2,0.1,12600.0,2266.31,3,2024,17.99
+ORD-1527,2023-04-16,CUST-061,Corporate,South,Karnataka,Furniture,Sofa,3,0.0,54000.0,-1460.3,4,2023,-2.7
+ORD-1168,2023-09-02,CUST-014,Consumer,North,Delhi,Furniture,Table,7,0.1,56700.0,5612.52,9,2023,9.9
